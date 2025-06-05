@@ -1,0 +1,1 @@
+Check the information: Wireless Setting from "Wireless" menu and DHCP Setting from "DHCP" menu.

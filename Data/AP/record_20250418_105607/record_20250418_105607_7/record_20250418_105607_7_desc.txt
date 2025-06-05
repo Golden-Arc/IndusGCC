@@ -1,0 +1,1 @@
+Configure "Wireless Setting" from "Wireless" menu: Set Channel to 11 and Click "Save".

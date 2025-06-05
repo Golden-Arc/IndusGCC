@@ -1,0 +1,1 @@
+Configure "WAN" from "Network" menu: Set Host name to "test.com"; Set MTU Size to 1600; Enable "Get IP with Unicast DHCP"; Finally Click "Save".

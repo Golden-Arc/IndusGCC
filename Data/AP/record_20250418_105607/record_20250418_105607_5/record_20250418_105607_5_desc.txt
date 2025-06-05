@@ -1,0 +1,1 @@
+Change Security Type to WEP and Click ""Save"".

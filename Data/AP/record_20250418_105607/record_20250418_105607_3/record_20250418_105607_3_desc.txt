@@ -1,0 +1,1 @@
+Configure "Wireless Setting" from "Wireless" menu: Set Mode to 11Mbps

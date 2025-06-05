@@ -1,0 +1,1 @@
+Configure "Adaptive QoS": Enable QoS; Set "Upload Bandwidth" to 10 Mbps; Set "Download Bandwidth" to 10 Mbps; and Click "Apply".

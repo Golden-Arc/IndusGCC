@@ -1,0 +1,22 @@
+import pyautogui
+import time
+
+pyautogui.click(1031, 708)
+time.sleep(1.717)
+pyautogui.keyDown('shift')
+time.sleep(0.083)
+pyautogui.press('_')
+pyautogui.keyUp('shift')
+time.sleep(0.917)
+pyautogui.press('3')
+time.sleep(0.217)
+pyautogui.press('3')
+time.sleep(2.383)
+pyautogui.keyDown('shift')
+time.sleep(0.133)
+pyautogui.press('_')
+pyautogui.keyUp('shift')
+time.sleep(0.717)
+pyautogui.press('3')
+time.sleep(0.200)
+pyautogui.press('3')

@@ -1,0 +1,1 @@
+Configure "WAN": Set "Host Name" to "test.com"; Click "MAC Clone"; Set "DHCP query frequency" to "Normal"; Enable "Extend the TTL Value"; and Click "Apply".

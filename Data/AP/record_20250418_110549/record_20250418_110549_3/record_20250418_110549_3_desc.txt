@@ -1,0 +1,1 @@
+Check the information from "Wireless" menu: MAC Filtering; Check Wireless Statistics and refresh the information.

@@ -1,0 +1,11 @@
+frame,key,event
+359,Key.left,Pressed
+365,Key.left,Released
+378,Key.backspace,Pressed
+381,Key.backspace,Released
+386,'2',Pressed
+392,'2',Released
+503,Key.backspace,Pressed
+509,Key.backspace,Released
+510,'1',Pressed
+517,'1',Released

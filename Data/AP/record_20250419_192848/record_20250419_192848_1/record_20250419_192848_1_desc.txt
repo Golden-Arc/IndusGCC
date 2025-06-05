@@ -1,0 +1,1 @@
+Configure "MAC Filtering" from "Wireless" menu: Enable Wireless MAC Address Filtering; Set "Filtering Rule" to "Deny the stations not specified by any enabled entries in the list to access"; Click "Confirm" in the pop-up box.

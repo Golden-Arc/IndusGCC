@@ -1,0 +1,16 @@
+frame,key,event
+409,Key.shift,Pressed
+414,'_',Pressed
+421,'-',Released
+469,'3',Pressed
+475,'3',Released
+482,'3',Pressed
+490,'3',Released
+625,Key.shift,Pressed
+633,'_',Pressed
+639,Key.shift,Released
+640,'-',Released
+676,'3',Pressed
+681,'3',Released
+688,'3',Pressed
+693,'3',Released

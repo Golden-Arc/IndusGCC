@@ -1,0 +1,1 @@
+Configure the "Time management" of the Client "AA:BB:CC:CD:DE:33": Add "01~02" "02~03" "03~04" "04~05" on Sunday to the schedule.

@@ -1,0 +1,1 @@
+Configure "DHCP Setting" from "DHCP" menu: Change "Start IP Address" to "192.168.1.50"; Change "End IP Address"  to "192.168.1.150"; Change "Address Lease Time" to 60; Set "Default Domain" to "test"; and click "Save".

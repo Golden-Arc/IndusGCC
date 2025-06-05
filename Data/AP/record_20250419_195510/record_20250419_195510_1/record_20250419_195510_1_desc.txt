@@ -1,0 +1,1 @@
+Configure "Professional" from "Wireless" menu: Set "Multicast Rate" to "OFDM 54"; Set "Preamble Type" to "Long"; Set "Beacon Interval" to 100; Set "256-QTM" to be enabled; Enable "Explicit Beamforming" and finally Click "Apply".

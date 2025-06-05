@@ -1,0 +1,1 @@
+Configure "Wireless Setting" from "Wireless" menu: Enable Wireless Security and change Security Type to WPA/WPA2

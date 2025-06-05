@@ -1,0 +1,1 @@
+Configure "Wireless": Set "Network Name" to "ASUS_80_2G_test"; Set Mode to "automatic"; Set Bandwidth to "20/40 MHz"; Set Channel to 1; and finally Click "Apply".

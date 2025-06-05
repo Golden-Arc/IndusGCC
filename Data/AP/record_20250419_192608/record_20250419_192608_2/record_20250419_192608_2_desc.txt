@@ -1,0 +1,1 @@
+Change MTU Size to 1400 and Click ""Save"".

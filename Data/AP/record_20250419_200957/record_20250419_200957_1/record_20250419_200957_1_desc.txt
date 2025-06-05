@@ -1,0 +1,1 @@
+Configure "Address Reservation" from "DHCP" menu: Set "MAC Address" to "AA-BB-CC-DE-EE-FF"; Set "Reserved IP Address" to "192.168.1.49"; and click "Save".

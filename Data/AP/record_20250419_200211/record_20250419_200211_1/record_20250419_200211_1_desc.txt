@@ -1,0 +1,1 @@
+Configure "NAT Passthrough": Select "WAN"; Select "NAT Passthrough" on topbar; Set "PPIP Passthrough" to "Disable"; Set "L2TP Passthrough" to "Disable"; Set "IPSec" to "Disable"; Set "RTSP Passthrough" to "Disable"; Set "H.323 Passthrough" to "Disable"; Set "SIP Passthrough" to "Disable"; and finally Click ""Apply"". 

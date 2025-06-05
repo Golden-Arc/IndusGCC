@@ -1,0 +1,1 @@
+Configure "Adaptive QoS": Set "QoS Type" to "Bandwidth Limiter"; Set "Target IP Address" to "192.168.50.3"; Set "Upload Bandwidth" to 10 Mbps; Set "Download Bandwidth" to 10 Mbps; and Click "Apply".

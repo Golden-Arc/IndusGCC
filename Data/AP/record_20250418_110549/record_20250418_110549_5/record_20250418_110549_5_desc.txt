@@ -1,0 +1,1 @@
+Configure "Firewall" from "Security" menu: "Allow the packets not specified by any filtering rule to pass through the firewall"; "Allow these PCs with enabled rules to access the Internet" and Click "Save".

@@ -1,0 +1,1 @@
+Add new "Port Forwarding": Click "Add Profile"; Set "Famous Server List" to "FTP (20,21)"; and Click "OK" to confirm.

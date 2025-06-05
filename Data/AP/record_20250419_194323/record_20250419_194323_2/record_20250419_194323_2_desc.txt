@@ -1,0 +1,1 @@
+Set "Client Name" from "AA:BB:CC:CD:DE" to "AA:BB:CC:CD:DE:33"; and add it to the clinet list.

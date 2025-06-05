@@ -1,0 +1,1 @@
+Configure "Wireless Setting" from "Wireless" menu: Set the Region to Taiwan and Click "Save".

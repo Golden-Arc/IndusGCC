@@ -1,0 +1,1 @@
+Add a new Static Route Entry: Select "Static Routing"; Press "Add New..." button; Select "Destination IP Address" as "192.168.2.30" and change it to "192.168.2.31"; Select "Subnet Mask" as "255.255.255.0"; Select "Default Gateway" as "192.168.1.1"; and finally Click "Save".

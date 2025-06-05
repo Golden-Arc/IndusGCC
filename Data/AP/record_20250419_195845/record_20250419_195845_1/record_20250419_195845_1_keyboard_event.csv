@@ -1,0 +1,17 @@
+frame,key,event
+219,'t',Pressed
+226,'t',Released
+227,'e',Pressed
+236,'e',Released
+237,'s',Pressed
+245,'s',Released
+251,'t',Pressed
+257,'t',Released
+276,'.',Pressed
+281,'.',Released
+324,'c',Pressed
+331,'c',Released
+333,'o',Pressed
+339,'o',Released
+344,'m',Pressed
+350,'m',Released

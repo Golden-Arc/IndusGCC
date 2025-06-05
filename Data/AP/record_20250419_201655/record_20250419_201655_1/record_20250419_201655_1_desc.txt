@@ -1,0 +1,1 @@
+Add a new "IP & MAC Binding": Select "Binding Setting" from "IP & MAC Binding" menu; Press "Add New..." button; Set "MAC Address" to "AA-BB-CC-EE-FF"; Set "IP Address" to "192.168.1.43"; Click "Save".

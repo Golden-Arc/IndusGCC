@@ -1,0 +1,1 @@
+Configure "Firewall": Select "Firewall"; Set "Enable Firewall" to "Yes"; Set "Enable DoS protection" to "Yes"; Set "Logged packets type" to "Dropped"; Set "Enable IPv6 Firewall" to "Yes"; Set "Famous Server List" to "FTP"; and finally Click "Apply".
