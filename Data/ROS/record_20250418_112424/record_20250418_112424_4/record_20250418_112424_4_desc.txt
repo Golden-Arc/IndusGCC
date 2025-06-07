@@ -1,0 +1,1 @@
+Insert model "ground_plane" and "sun" into the 3D virtual environment.

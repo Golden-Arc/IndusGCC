@@ -1,0 +1,1 @@
+Configure Model "ground_plane": Enable the wind in the model and set link of the model to "kinematic" and "enable_wind".

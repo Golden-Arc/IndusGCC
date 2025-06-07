@@ -1,0 +1,1 @@
+Configure the first path: Set the "Queue Size" to 8 by the down arrow key; Set "Offset" to "0;0;1" by keyboard; Set the "Buffer Length" to 2 by the up arrow key.

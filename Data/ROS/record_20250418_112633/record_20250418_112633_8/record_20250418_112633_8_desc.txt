@@ -1,0 +1,1 @@
+Configure Global Options: Change "Background Color" to "Darkgrey" (Row 2 Column 8).

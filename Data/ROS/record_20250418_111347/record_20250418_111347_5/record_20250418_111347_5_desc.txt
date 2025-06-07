@@ -1,0 +1,1 @@
+Configure Lights of the scene: Change the diffuse of Light "sun" to "Red: 230; Green: 220" and the direction range of Light "sun" to 850 and constant of attenuation to 0.95.

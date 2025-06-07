@@ -1,0 +1,1 @@
+Configure color of "Spline Point" Path (sorted by topic) and "Rvizpath" Path (sorted by topic) 

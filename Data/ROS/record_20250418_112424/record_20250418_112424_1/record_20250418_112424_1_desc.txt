@@ -1,0 +1,1 @@
+Configure Model "ground_plane": Enable the wind in the model and set pose in the model to "x: 0.1; y: 0.1; z: 0.1"

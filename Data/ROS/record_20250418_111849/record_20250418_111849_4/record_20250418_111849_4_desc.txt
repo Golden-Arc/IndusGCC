@@ -1,0 +1,1 @@
+Configure Lights of the scene: Change the direction range of Light "sun" to 850 by keyboard.

@@ -1,0 +1,1 @@
+Close the Rviz window without saving.

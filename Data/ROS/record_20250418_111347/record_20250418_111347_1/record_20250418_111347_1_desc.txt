@@ -1,0 +1,1 @@
+Add a spherical obstacle in the 3D virtual environment.
