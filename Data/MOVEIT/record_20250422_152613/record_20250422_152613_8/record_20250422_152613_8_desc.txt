@@ -1,0 +1,1 @@
+Add a box object to the scene and change the position to "0.7; 0; 0.2;".

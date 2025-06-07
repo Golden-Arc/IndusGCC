@@ -1,0 +1,1 @@
+Set the shape of a box object as "0.1; 0.5; 0.5;" and add it to the scene.

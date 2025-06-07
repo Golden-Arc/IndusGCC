@@ -1,0 +1,1 @@
+Set the goal state of the robotic arm to "<current>" and set the start state of the robotic arm to "<same as goal>" and execute the command "Plan".

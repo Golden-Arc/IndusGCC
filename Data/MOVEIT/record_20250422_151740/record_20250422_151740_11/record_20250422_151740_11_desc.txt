@@ -1,0 +1,1 @@
+Set goal state of "panda_joint3" to minus 6 degree; Set goal state of "panda_joint7" to 112 degree; Set goal state of "panda_joint6" to 134 degree; Set goal state of "panda_joint5" to 11 degree; Set goal state of "panda_joint6" to 138 degree; and finally execute the command "Plan".

@@ -1,0 +1,1 @@
+Configure the "Motion Planning": Disenable the "Show Robot Visual".

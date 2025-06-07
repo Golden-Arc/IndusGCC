@@ -1,0 +1,1 @@
+Add a cylinder object to the scene and change the position to "0.0; -0.2; 0;" and execute the command "Publish".

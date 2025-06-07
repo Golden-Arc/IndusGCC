@@ -1,0 +1,1 @@
+Set the position of a box object to "0.4; 0; 0.2;" and execute the command "Publish".

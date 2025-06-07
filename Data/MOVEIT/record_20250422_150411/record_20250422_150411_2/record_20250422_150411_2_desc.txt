@@ -1,0 +1,1 @@
+Show the details of Marker Array and configure the "Motion Planning": Disenable the "Show Robot Visual".

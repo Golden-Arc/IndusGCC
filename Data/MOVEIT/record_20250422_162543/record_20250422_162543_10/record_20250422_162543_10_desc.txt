@@ -1,0 +1,1 @@
+Manually adjust the motion planning of the robotic arm: Set goal state of "panda_joint4" to minus 87 degree; Set goal state of "panda_joint3" to minus 87 degree; Set goal state of "panda_joint3" to minus 87 degree; Set goal state of "panda_joint4" to minus 83 degree; and finally execute the command "Plan".

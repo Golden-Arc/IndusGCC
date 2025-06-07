@@ -1,0 +1,1 @@
+Set the shape of the second cylinder object as "0.2; 0.3;" and add it to the scene.
