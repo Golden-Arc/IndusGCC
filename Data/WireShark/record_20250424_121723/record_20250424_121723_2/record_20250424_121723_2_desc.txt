@@ -1,1 +1,0 @@
-This task involved ​using PingPlotter Pro to monitor network latency and hops to www.cpr.cuhk.edu.hk, revealing intermediate nodes (e.g., CUHK internal routers, AWS IPs like 52.93.35.147) and stable sub-millisecond latency with zero packet loss.

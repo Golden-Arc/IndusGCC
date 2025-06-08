@@ -1,1 +1,0 @@
-Wireshark analysis and sniffing of DNS packets.

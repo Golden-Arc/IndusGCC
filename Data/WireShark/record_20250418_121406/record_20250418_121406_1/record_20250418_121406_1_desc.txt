@@ -1,1 +1,0 @@
-This task performs a DNS lookup for www.baidu.com, revealing its resolved IP addresses and associated domain aliases.

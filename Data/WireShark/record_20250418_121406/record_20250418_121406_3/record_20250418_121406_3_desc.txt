@@ -1,1 +1,0 @@
-This task performs a DNS query for www.mit.edu and analyzes the resulting DNS packets using Wireshark.
