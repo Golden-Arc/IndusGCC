@@ -1,0 +1,1 @@
+Configure Module "Stream to Tagged Stream": Change Property "Packet_Length" to "packet_len"; Click "OK" to save.

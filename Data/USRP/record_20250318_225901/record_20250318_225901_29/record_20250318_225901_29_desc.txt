@@ -1,0 +1,1 @@
+Configure Module "Char To Float": Change Property "Vec Length" to "1"; Change Property "Scale" to "1"; Click "OK" to save.

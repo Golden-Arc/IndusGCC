@@ -1,0 +1,1 @@
+Select Modules "QT GUI Sink" and "File Sink" and "UHD: USRP Source" together and Click right mouse button to "Enable".

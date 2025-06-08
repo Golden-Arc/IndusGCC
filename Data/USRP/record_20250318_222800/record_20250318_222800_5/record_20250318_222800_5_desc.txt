@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range": Change Property "Id" to "ower"; Change Property "Label" to "Tx_Poer"; Click "OK" to save.

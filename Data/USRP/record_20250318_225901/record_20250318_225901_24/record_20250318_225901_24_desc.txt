@@ -1,0 +1,1 @@
+Configure Module "Channel Model": Change Property "Noise Voltage" to "noise_volt"; Change Property "Frequency Offset" to "freq_offset"; Change Property "Epsilon" to "time_offset"; Change Property "Taps" to "taps"; Click "OK" to save.

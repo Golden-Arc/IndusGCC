@@ -1,0 +1,1 @@
+Configure Module "Options": Change Property "Id" to "tx"; Change Property "Title" to "tx"; Change Property "Generate Options" to "QT GUI"; Change Property "Run" to "Autostart"; Click "OK" to save.

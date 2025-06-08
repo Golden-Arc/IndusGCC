@@ -1,0 +1,1 @@
+Drag the cursor of "Noise Voltage" to 0.1900 and then to 0.3900 and then to 0.3400; Drag the cursor of "Phase: Bandwidth" to 0.4900 and then to 0.1900.

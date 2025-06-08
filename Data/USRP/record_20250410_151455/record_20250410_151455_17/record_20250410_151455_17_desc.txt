@@ -1,0 +1,1 @@
+Select "Constellation Display" on topbar; Drag the cursor of "voltage" to 103; Drag the cursor of "freq" to 3274 and then 3495; Drag the cursor of "tx_gain" to 16.0.

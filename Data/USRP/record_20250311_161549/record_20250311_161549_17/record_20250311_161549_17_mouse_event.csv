@@ -1,0 +1,13 @@
+frame,x,y,button,event
+105,684,102,Button.left,Pressed
+111,684,102,Button.left,Released
+405,389,103,Button.left,Pressed
+632,1456,110,Button.left,Released
+944,1127,168,Button.left,Pressed
+1046,739,200,Button.left,Released
+1092,741,172,Button.left,Pressed
+1230,1645,176,Button.left,Released
+1479,1448,100,Button.left,Pressed
+1578,743,144,Button.left,Released
+1824,1906,38,Button.left,Pressed
+1836,1906,38,Button.left,Released

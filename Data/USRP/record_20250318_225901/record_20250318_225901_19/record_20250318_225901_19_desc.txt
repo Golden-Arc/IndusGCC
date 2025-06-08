@@ -1,0 +1,1 @@
+Configure Module "Random Source": Change Property "Output Type" to "byte"; Change Property "Repeat" to "Yes"; Click "OK" to save.

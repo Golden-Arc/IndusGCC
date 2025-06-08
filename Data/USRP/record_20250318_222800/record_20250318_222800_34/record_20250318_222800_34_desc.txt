@@ -1,0 +1,1 @@
+Select "Constellation Display" on topbar; Drag the knob of "Tx_Freq" to 0.898438 and then 3.896484 ; Drag the knob of "Tx_Power" to -1.474964 and then -4.554468.

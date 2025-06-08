@@ -1,0 +1,1 @@
+Configure Module "Constellation Modualator": Change Property "Samples/Symbol" to "SPS"; Change Property "Excess BW" to "excess_bw"; Click "OK" to save. 

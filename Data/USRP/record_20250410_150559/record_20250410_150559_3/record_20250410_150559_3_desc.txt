@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range": Change Property "Id" to "voltage"; Change Property "Label" to "amp"; Change Property "Default Value" to "1"; Change Property "Start" to "0"; Change Property "Stop" to "1000"; Change Property "Step" to "1"; Change Property "Widget" to "Counter + Slider"; Change Property "Minimum Length" to 200; Click "OK" to save.

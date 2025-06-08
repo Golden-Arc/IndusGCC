@@ -1,0 +1,1 @@
+Configure Module "QT GUI Frequency Sink": Change Property "Bandwidth" to "samp_rate"; Click "OK" to save.

@@ -1,0 +1,1 @@
+Select "Time Domain Display" on topbar; Drag the knob of "Tx_Freq" to 4.697266; Drag the knob of "Tx_Power" to -18.221066.

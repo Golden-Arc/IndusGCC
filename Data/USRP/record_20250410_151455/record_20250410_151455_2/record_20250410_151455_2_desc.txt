@@ -1,0 +1,1 @@
+Configure Module "QT GUI Frequency Sink": Change Property "Type" to "complex"; Change Property "FFT Size" to 1024; Change Property "Center Frequency" to 0; Change Property "Bandwidth" to samp_rate; Click "OK" to save.

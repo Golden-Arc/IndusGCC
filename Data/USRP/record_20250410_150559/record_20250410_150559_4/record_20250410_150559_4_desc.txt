@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range": Change Property "Id" to "freq"; Change Property "Label" to "freq"; Change Property "Default Value" to "2400"; Change Property "Start" to "2300"; Change Property "Stop" to "6000"; Change Property "Step" to "1"; Change Property "Widget" to "Counter + Slider"; Change Property "Minimum Length" to 200; Click "OK" to save.

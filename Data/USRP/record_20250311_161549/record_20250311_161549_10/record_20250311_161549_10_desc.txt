@@ -1,0 +1,1 @@
+Configure Module "Throttle": Change Property "Sample Rate" to "samp_rate"; Click "OK" to save.

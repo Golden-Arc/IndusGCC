@@ -1,0 +1,1 @@
+Press "Start" button to execute the simulation; Enable "Max Hold" and "Min Hold".

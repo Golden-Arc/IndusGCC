@@ -1,0 +1,1 @@
+Drag the knob of "Tx_Freq" to 2.001953; Drag the knob of "Tx_Power" to -3.361156.

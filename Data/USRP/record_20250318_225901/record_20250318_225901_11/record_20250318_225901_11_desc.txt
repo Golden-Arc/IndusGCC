@@ -1,0 +1,1 @@
+Configure Module "Variable" with Id "nfilts": Change Property "Value" to "24"; Click "OK" to save.

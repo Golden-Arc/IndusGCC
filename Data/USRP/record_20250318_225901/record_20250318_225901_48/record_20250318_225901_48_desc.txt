@@ -1,0 +1,1 @@
+Drag the cursor of "Time Offset" to 1.000400 and then to 1.000600 and then to 1.000700 and then to 0.999900 and then to 1.000800; Drag the cursor of "Frequency Offset" to -0.02700; Drag the cursor of "Noise Voltage" to 0.3500 and then to 0.6700 and then to 0.1400; Drag the cursor of "Frequency Offset" to -0.00600.

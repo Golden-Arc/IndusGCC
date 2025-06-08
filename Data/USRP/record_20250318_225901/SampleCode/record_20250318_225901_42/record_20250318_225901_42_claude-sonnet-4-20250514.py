@@ -1,0 +1,20 @@
+import pyautogui
+import time
+
+pyautogui.press('m')
+time.sleep(0.233)
+pyautogui.press('p')
+time.sleep(0.267)
+pyautogui.press('shift')
+time.sleep(0.100)
+pyautogui.press('_')
+time.sleep(0.250)
+pyautogui.press('r')
+time.sleep(0.083)
+pyautogui.press('a')
+time.sleep(0.300)
+pyautogui.press('t')
+time.sleep(0.100)
+pyautogui.press('e')
+time.sleep(1.300)
+pyautogui.click(1064, 859)

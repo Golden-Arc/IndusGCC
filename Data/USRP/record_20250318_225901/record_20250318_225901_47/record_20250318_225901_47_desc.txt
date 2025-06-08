@@ -1,0 +1,1 @@
+Drag the cursor of "Noise Voltage" to 0.1600; Drag the cursor of "Frequency Offset" to 0.07300 and then to 0.08300 and then to 0.03300 and then to 0.01300.

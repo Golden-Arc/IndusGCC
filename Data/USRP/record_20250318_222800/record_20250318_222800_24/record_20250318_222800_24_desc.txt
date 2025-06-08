@@ -1,0 +1,1 @@
+Configure Module "QT SUI Number Sink": Change Property "Max" to "nyquist_rate/1e6"; Click "OK" to save.

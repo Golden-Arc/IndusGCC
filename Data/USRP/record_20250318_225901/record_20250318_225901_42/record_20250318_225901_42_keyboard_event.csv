@@ -1,0 +1,16 @@
+frame,key,event
+49,'m',Pressed
+56,'m',Released
+63,'p',Pressed
+70,'p',Released
+79,Key.shift,Pressed
+85,'_',Pressed
+91,'-',Released
+100,'r',Pressed
+105,'a',Pressed
+109,'r',Released
+114,'a',Released
+123,'t',Pressed
+128,'t',Released
+129,'e',Pressed
+136,'e',Released

@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range" with Id "freq_offset": Change Property "Default Value" to "0"; Change Property "Start" to "-0.1"; Change Property "Stop" to "0.1"; Change Property "Step" to "0.001"; Change Property "Minimum Length" to "200"; Click "OK" to save.

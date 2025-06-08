@@ -1,0 +1,1 @@
+Check Module ""QT GUI Time Sink": Click "X" to close the window.

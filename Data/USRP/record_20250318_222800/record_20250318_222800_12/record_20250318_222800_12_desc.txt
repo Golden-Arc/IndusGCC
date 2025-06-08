@@ -1,0 +1,1 @@
+Configure Module "Complex to Mag^2": Change Property "Vec Length" to "bin_size"; Click "OK" to save.

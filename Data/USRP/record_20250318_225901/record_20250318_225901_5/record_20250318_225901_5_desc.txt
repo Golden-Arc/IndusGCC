@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range" with Id "phase_bw": Change Property "Default Value" to "6.28/100.0"; Change Property "Start" to "0.0"; Change Property "Stop" to "0.2"; Change Property "Step" to "0.01"; Change Property "Minimum Length" to "200"; Click "OK" to save.

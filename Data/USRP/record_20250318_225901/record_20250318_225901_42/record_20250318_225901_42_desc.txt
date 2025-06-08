@@ -1,0 +1,1 @@
+Press "Start" button to execute the simulation; Maximize the window of the simulation interface.

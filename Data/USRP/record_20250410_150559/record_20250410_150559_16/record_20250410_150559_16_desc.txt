@@ -1,0 +1,1 @@
+Select "Waterfall Display" on topbar; Click "Auto Scale"; Drag the cursor of "noise" to -76 dB; Drag the cursor of "freq" to 3522; Drag the cursor of "tx_gain" to 50.0.

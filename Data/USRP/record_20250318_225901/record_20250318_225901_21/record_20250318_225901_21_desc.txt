@@ -1,0 +1,1 @@
+Configure Module "Pack K Bits": Change Property "K" to "8"; Click "OK" to save.

@@ -1,0 +1,1 @@
+Configure Module "Differential Decoder": Change Property "Modulus" to "8"; Click "OK" to save.

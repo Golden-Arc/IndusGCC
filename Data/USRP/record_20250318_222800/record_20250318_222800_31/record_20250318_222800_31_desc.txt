@@ -1,0 +1,1 @@
+Select "Waterfall Display" on topbar; Drag the knob of "Tx_Freq" to 4.404297.

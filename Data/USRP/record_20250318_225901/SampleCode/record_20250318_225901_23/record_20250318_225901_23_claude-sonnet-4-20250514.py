@@ -1,0 +1,31 @@
+import pyautogui
+import time
+
+pyautogui.FAILSAFE = True
+
+pyautogui.click(x=794, y=516)
+time.sleep(0.100)
+pyautogui.click(x=794, y=516) 
+time.sleep(3.017)
+pyautogui.click(x=902, y=458)
+time.sleep(0.450)
+pyautogui.press('s')
+time.sleep(0.467)
+pyautogui.press('a')
+time.sleep(0.167)
+pyautogui.press('m')
+time.sleep(0.383)
+pyautogui.press('p')
+time.sleep(0.317)
+pyautogui.keyDown('shift')
+time.sleep(0.050)
+pyautogui.press('_')
+time.sleep(0.233)
+pyautogui.keyUp('shift')
+pyautogui.press('r')
+time.sleep(0.100)
+pyautogui.press('a')
+time.sleep(0.300)
+pyautogui.press('t')
+time.sleep(0.283)
+pyautogui.press('e')

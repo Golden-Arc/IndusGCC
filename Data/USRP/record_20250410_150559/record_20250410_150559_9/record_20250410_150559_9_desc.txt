@@ -1,0 +1,1 @@
+Connect Modules: Connect output of "File Source" to input of "Multiply Const"; Connect output of "Multiply Const" to input of "QT GUI Sink".

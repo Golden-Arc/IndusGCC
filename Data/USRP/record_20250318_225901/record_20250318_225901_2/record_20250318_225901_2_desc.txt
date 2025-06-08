@@ -1,0 +1,1 @@
+Configure Module "Options" with id "DBPSK_8DPSK_example": Change Property "Output Language" to "Python"; Change Property "Generate Options" to "QT GUI"; Change Property "Run" to "Autostart"; Change Property "Realtime Scheduling" to "Off"; Click "OK" to save.

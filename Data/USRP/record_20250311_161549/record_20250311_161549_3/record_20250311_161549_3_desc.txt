@@ -1,0 +1,1 @@
+Configure Module "Variable" with id "fft_len": Change Property "Value" to "64"; Click "OK" to save. 

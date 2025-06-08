@@ -1,0 +1,1 @@
+Configure Module "Add Const": Change Property "Constant" to "-nyquist_rate"; Click "OK" to save.

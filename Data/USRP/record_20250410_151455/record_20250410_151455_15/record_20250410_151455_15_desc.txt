@@ -1,0 +1,1 @@
+Select "Waterfall Display" on topbar; Drag the cursor of "freq" to 3506; Click "Auto Scale"; Drag the cursor of "tx_gain" to 20.0.

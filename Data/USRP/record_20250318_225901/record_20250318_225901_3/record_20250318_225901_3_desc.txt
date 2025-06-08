@@ -1,0 +1,1 @@
+Configure Module "variable_constellation_0": Change Property "Constellation Type" to "Variable Constellation"; Click "OK" to save.

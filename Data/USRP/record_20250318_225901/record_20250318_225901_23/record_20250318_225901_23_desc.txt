@@ -1,0 +1,1 @@
+Configure Module "Throttle": Change Property "Sample Rate" to "samp_rate"; Change Property "Type" to "complex"; Click "OK" to save. 

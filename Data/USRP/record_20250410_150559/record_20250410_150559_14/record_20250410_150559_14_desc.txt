@@ -1,0 +1,1 @@
+Enable "Display RF Frequencies"; Drag the cursor of "freq" to 3723; Drag the cursor of "tx_gain" to 41.0; Drag the cursor of "amp" to 519.

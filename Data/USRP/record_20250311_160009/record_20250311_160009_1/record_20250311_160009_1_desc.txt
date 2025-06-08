@@ -1,0 +1,1 @@
+Configure Module "Vector Source": Change Property "Vector" to "range(packet_len)"; Click "OK" to save.

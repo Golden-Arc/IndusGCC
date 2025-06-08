@@ -1,0 +1,11 @@
+-> Generating code from multiple models...
+  -> Calling model: gpt-4o
+  -> Calling model: claude-sonnet-4-20250514
+  -> Calling model: gemini-2.5-flash-preview-05-20
+-> Calculating AST similarity scores...
+  -> Similarity(gpt-4o, claude-sonnet-4-20250514) = 0.8604651162790697
+  -> Similarity(gpt-4o, gemini-2.5-flash-preview-05-20) = 0.9302325581395349
+  -> Similarity(claude-sonnet-4-20250514, gemini-2.5-flash-preview-05-20) = 0.9387755102040817
+* Most similar models: claude-sonnet-4-20250514 and gemini-2.5-flash-preview-05-20 (score=0.9387755102040817)
+-> Refining with review model: deepseek-v3-250324
+* Final code saved to: ../dataset/train/OFDM/record_20250311_160009/VideoClip/SampleCode/record_20250311_160009_4/record_20250311_160009_4_SAMPLE.py

@@ -1,0 +1,17 @@
+frame,key,event
+510,'v',Pressed
+516,'v',Released
+526,'o',Pressed
+530,'o',Released
+538,'l',Pressed
+543,'l',Released
+557,'t',Pressed
+561,'t',Released
+562,'a',Pressed
+569,'a',Released
+571,'g',Pressed
+575,'g',Released
+578,'e',Pressed
+585,'e',Released
+667,'1',Pressed
+675,'1',Released

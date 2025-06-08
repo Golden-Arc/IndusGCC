@@ -1,0 +1,1 @@
+Configure Module "QT GUI Sink": Check Property "Name"; Change Property "FFT Size" to "bin_size"; Change Property "Bandwidth" to "samp_rate"; Click "OK" to save.

@@ -1,0 +1,1 @@
+Select "Time Domain Display" on topbar; Enable "Display RF Frequencies".

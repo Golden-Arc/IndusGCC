@@ -1,0 +1,1 @@
+Configure Module "Fast Multiply Const": Change Property "Constant" to "samp_rate/1024"; Click "OK" to save.

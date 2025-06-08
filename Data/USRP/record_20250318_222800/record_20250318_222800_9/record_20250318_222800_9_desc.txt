@@ -1,0 +1,1 @@
+Configure Module "Signal Source": Change Property "Output Type" to "complex"; Change Property "Sample Rate" to "samp_rate"; Change Property "Frequency" to "freq"; Change Property "Amplitude" to "power"; Click "OK" to save.

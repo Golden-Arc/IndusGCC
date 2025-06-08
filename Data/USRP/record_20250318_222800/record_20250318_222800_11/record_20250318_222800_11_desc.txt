@@ -1,0 +1,1 @@
+Configure Module "FFT": Change Property "FFT Size" to "bin_size"; Click "OK" to save.

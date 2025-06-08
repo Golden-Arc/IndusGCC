@@ -1,0 +1,1 @@
+Press "Start" button to execute the simulation; Maximize the window of the simulation interface; Drag the knob of "Tx_Freq" to 3.896484;

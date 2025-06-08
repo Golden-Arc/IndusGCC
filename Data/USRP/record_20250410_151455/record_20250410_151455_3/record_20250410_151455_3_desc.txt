@@ -1,0 +1,1 @@
+Configure Module "QT GUI Time Sink": Change Property "Type" to "complex"; Change Property "Number of Points" to 1024; Change Property "Sample Rate" to "samp_rate"; Click "OK" to save.

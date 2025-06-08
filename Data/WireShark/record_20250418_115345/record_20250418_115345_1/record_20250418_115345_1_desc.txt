@@ -1,0 +1,1 @@
+This capture shows HTTP packet analysis of a multi-resource webpage, including successful HTML retrieval and cached resource handling.

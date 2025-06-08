@@ -1,0 +1,1 @@
+Configure Module "Vector Source": Change Property "Output Type" to "byte"; Click "OK" to save.

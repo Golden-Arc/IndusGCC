@@ -1,0 +1,1 @@
+Configure Module "Fast Multiply Const": Change Property "IO Type" to "Float"; Click "OK" to save.

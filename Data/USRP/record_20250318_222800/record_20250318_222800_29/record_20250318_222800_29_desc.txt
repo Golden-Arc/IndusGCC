@@ -1,0 +1,1 @@
+Drag the knob of "Tx_Freq" to 1.503906; Drag the knob of "Tx_Power" to -4.427227; Disable "Min Fold".

@@ -1,0 +1,1 @@
+Sure! Could you please provide the list of mouse and keyboard events you'd like the script to reproduce?

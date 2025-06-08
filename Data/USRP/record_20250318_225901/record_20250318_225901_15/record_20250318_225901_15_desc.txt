@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range" with Id "noise_volt": Change Property "Type" to "float"; Change Property "Default Value" to "0.0001"; Change Property "Start" to "0"; Change Property "Stop" to "1"; Change Property "Step" to "0.01"; Change Property "Minimum Length" to "200"; Click "OK" to save.

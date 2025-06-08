@@ -1,0 +1,1 @@
+Configure Module "Variable" with id "samp_rate": Change Property "Value" to 320000; Click "OK" to save.

@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range" with Id "freq": Change Property "Default Value" to "nyquist_rate/2"; Click "OK" to save.

@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range" with Id "delay": Change Property "Type" to "int"; Change Property "Default Value" to "30"; Change Property "Start" to "0"; Change Property "Stop" to "100"; Change Property "Step" to "1"; Change Property "Minimum Length" to "200"; Click "OK" to save.

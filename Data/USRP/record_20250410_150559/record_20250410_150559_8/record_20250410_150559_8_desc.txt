@@ -1,0 +1,1 @@
+Configure Module "QT GUI Sink": Change Property "FFT Size" to 1024; Change Property "Center Frequency" to "freq*1e6"; Change Property "Bandwidth" to "samp_rate"; Change Property "Update Rate" to 10; Click "OK" to save.

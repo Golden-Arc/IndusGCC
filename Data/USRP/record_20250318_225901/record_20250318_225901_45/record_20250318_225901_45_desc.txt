@@ -1,0 +1,1 @@
+Drag the cursor of "Phase: Bandwidth" to 0.1500 and then to 0.4500 and then to 0.6900 and then to 0.8800 and then to 0.7800.

@@ -1,0 +1,1 @@
+Press "Start" button to execute the simulation; Drag the cursor of Noise Amplitude to 0.7800; Drag the cursor of Frequency Offest to minus 1.7400 and then to positive 2.3300; Drag the cursor of Noise Amplitude to 0.3200; Close the window.

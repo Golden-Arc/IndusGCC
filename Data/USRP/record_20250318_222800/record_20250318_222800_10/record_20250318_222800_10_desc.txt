@@ -1,0 +1,1 @@
+Configure Module "Noise Source": Change Property "Output Type" to "complex"; Change Property "Noise Type" to "Gaussian"; Click "OK" to save.

@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range": Change Property "Id" to "freq"; Change Property "Label" to "Tx_Freq"; Change Property "Default Value" to "2500000"; Change Property "Start" to "0"; Change Property "Stop" to "nyquist_rate"; Click "OK" to save.

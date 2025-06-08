@@ -1,0 +1,1 @@
+Select "Time Domain Display" on topbar; Drag the cursor of "tx_gain" to 14.0; Drag the cursor of "freq" to 2999; Drag the cursor of "voltage" to 229 and then 184.

@@ -1,0 +1,1 @@
+Configure Module "Unpack K Bits": Change Property "K" to "3"; Click "OK" to save.

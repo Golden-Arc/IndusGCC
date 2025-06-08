@@ -1,0 +1,1 @@
+Configure Module "Max": Change "Input Vec Length" to "bin_size"; Change "IO Type" to "Float"; Click "OK" to save.

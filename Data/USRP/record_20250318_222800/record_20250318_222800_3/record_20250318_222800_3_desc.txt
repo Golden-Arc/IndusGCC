@@ -1,0 +1,1 @@
+Configure Module "Variable" with id "nyqyust_rate": Change Property "Value" to 5000000; Click "OK" to save.

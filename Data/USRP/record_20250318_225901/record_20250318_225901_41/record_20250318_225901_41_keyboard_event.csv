@@ -1,0 +1,5 @@
+frame,key,event
+512,'s',Pressed
+522,'s',Released
+529,'a',Pressed
+537,'a',Released

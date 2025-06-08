@@ -1,0 +1,1 @@
+Configure Module "File Source": Click "..." button to select file (Desktop -> Code -> 0_sample.dat); Change Property "Vec Length" to 1; Change Property "Output Type" to "complex"; Change Property "Offset" to 0; Change Property "Length" to 0; Click "OK" to save.

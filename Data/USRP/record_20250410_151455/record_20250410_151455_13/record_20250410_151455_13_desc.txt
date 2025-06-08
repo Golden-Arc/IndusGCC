@@ -1,0 +1,1 @@
+Drag the cursor of "rx_gain" to 15.0; Drag the cursor of "tx_gain" to 39.0; Drag the cursor of "freq" to 3474; Drag the cursor of "voltage" to 269.

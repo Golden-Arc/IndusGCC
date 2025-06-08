@@ -1,0 +1,1 @@
+Select "Time Domain Display" on topbar; Change "Window" to "Blackman" and then "Kaiser".

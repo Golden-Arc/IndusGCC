@@ -1,0 +1,1 @@
+Configure Module "Multiply Const": Change Property "IO Type" to "float" and then to "complex"; Change Property "Constant" to "voltage"; Change Property "Vec Length" to 1; Click "OK" to save.

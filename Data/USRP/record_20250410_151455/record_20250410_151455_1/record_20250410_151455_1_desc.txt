@@ -1,0 +1,1 @@
+Enable and Configure Module "QT GUI Range": Change Property "Id" to "rx_gain"; Change Property "Label" to "rx_gain"; Change Property "Default Value" to 20; Change Property "Start" to 1; Change Property "Stop" to 70; Change Property "Step" to 1; Change Property "Minimum Length" to 200; Click "OK" to save.

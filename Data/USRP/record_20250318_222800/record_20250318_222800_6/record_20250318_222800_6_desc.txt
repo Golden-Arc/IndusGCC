@@ -1,0 +1,1 @@
+Configure Module "QT GUI Range" with Id "power": Change Property "Label" to "Tx_Power"; Click "OK" to save.

@@ -1,0 +1,1 @@
+Select "Constellation Display" on topbar; Drag the cursor of "freq" to 4673; Drag the cursor of "tx_gain" to 20.0.

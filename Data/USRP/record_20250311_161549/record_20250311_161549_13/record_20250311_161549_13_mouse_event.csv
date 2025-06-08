@@ -1,0 +1,7 @@
+frame,x,y,button,event
+36,270,833,Button.left,Pressed
+40,270,833,Button.left,Released
+42,270,833,Button.left,Pressed
+50,270,833,Button.left,Released
+102,892,582,Button.left,Pressed
+107,892,582,Button.left,Released

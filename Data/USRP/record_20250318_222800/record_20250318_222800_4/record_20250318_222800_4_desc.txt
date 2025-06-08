@@ -1,0 +1,1 @@
+Configure Module "Variable" with id "bin_size": Change Property "Value" to 1024; Click "OK" to save.

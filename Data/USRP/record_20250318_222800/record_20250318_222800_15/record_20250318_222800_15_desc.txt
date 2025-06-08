@@ -1,0 +1,1 @@
+Configure Module "Fast Multiply Const": Change Property "Constant" to "1/bin_size**2"; Click "OK" to save.

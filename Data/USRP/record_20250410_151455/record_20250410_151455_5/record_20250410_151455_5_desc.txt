@@ -1,0 +1,1 @@
+Configure Module "UHD: USRP Source": Change Property "Device Address" to "addr=192.168.40.2"; Change Property "Sample Rate" to "samp_rate"; Click "OK" to save.

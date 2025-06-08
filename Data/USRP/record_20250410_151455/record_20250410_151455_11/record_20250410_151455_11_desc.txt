@@ -1,0 +1,1 @@
+Select Modules "QT GUI Frequency Sink" and "QT GUI Time Sink" and "UHD: USRP Sink" together and Click right mouse button to "Disable".

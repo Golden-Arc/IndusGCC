@@ -1,0 +1,1 @@
+Configure Module "OFDM Transmitter": Change Property "FFT_Length" to "fft_len"; Change Property "Cyclic Prefix Length" to "fft_len//4"; Click "OK" to save.

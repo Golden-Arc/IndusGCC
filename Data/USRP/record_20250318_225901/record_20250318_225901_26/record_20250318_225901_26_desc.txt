@@ -1,0 +1,1 @@
+Configure Module "Costas Loop": Change Property "Loop Bandwidth" to "phase_bw"; Change Property "Order" to "8"; CHange Property "Use SNR" to "No"; Click "OK" to save.
