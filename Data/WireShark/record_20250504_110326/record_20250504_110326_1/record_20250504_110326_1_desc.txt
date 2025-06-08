@@ -1,0 +1,1 @@
+Clear browser cookies and test HTTP connection and perform packet capture analysis.
