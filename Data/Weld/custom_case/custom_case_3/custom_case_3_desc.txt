@@ -1,0 +1,1 @@
+Auto-extract welding units by selecting bottom plane: Enable "Grasp Entire Object"; Click the object; Enable "Bottom Plane Setting"; Click the bottom plane; Click "Generate Units" button; Click "Yes" to continue generating.

@@ -1,0 +1,1 @@
+Select the abnormal plane: Enable "Select Entire Object"; Click the Object; Enable "Grasp Plane"; Click the first abnormal plane; Click "Yes" to confirm; Enable "Grasp Plane"; Click the second abnormal plane; Click "Yes" to confirm;

@@ -1,0 +1,1 @@
+Select the plane with special welds by "Custom Plane + Custom Weld": Click "Special Weld"; Enable "Special Requirement"; Select "Custom plane + Custom Weld"; Enable "Grasp Plane"; Click the first plane; Enable "Grasp Plane"; Click the second plane; Enable "Grasp Plane"; Click the third plane.

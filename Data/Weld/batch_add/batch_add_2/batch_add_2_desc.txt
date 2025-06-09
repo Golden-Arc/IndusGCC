@@ -1,0 +1,1 @@
+Select plane: Enable "Select Plane"; Click the plane.

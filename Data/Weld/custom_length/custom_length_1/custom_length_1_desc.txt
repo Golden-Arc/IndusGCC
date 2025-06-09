@@ -1,0 +1,1 @@
+Customize Weld Length: Enable "Grasp Entire Object"; Enable "Special Requirement"; Select "Custom Plane + Custom Weld"; Enable "P1"; Click the first point on the weld seam; Enable "P2"; Click the second point on the plane; Click "Generate Units" button.

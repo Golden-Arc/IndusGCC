@@ -1,0 +1,1 @@
+Select entire object: Enable "Select Entire Object"; Click the object.

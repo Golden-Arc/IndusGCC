@@ -1,0 +1,1 @@
+Auxiliary lines: Select auto-generated weld with id "0" with right mouse button; Click "Show auxiliary lines".

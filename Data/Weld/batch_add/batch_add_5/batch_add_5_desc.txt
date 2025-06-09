@@ -1,0 +1,1 @@
+Select 3 Welding Seam and Add in batch: Enable "Select Welding Seam"; Click the welding seam; Enable "Select Welding Seam"; Click the welding seam; Enable "Select Welding Seam"; Click the welding seam; Click "Batch Add"; Click "Yes" to confirm.

@@ -1,0 +1,1 @@
+Select the abnormal plane: Enable "Grasp Plane"; Click the abnormal plane; Click "Yes" to confirm.

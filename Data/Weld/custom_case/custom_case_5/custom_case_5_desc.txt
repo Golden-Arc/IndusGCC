@@ -1,0 +1,1 @@
+Auto-extract welding units by selecting line: Enable "Grasp Entire Object"; Click the object; Enable "Grasp Line"; Click the weld line; Click "Generate Units" button; Click the object with right mouse button; Click "Visable"; Click "Welding Seam" with id "0"; and Click "Show Auxiliary Lines".

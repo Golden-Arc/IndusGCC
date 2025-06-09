@@ -1,0 +1,1 @@
+Determine weld seam by selecting points P1 and P2: Enable "P1"; Click the first point on the weld seam; Enable "P2"; Click the second point on the plane.

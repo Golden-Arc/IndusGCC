@@ -1,0 +1,1 @@
+Delete all Weld Units: Click the Weld Unit with id "2" with right mouse button; Click "Select All"; Click "Delete"; Click "Yes" to confirm.

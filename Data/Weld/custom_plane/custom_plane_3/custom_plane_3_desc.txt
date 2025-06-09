@@ -1,0 +1,1 @@
+Select the plane with special welds by "Auto Plane + Auto Weld": Click "Auto Plane + Auto Weld"; Enable "Grasp Line"; Click the first line; Enable "Grasp Line"; Click the second line; Click "Generate Units" button.

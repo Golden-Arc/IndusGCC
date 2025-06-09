@@ -1,0 +1,1 @@
+Auto-extract welding units by selecting entire object: Select "Special Weld"; Enable "Grasp Entire Object"; Click the object; Click "Generate Units" button; Click "Yes" to continue generating.
