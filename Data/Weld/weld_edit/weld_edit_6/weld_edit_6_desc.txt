@@ -1,0 +1,1 @@
+Cancel vertical welding right: Select the component with id "6-9"; Click right mouse button and Select "Cancel Vertical Welding Right"; Click "Yes" to confirm.

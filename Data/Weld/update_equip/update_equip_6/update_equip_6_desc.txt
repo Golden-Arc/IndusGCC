@@ -1,0 +1,1 @@
+Initialize Welding System: Click "Initialize"; Click "Yes" to confirm initialization.

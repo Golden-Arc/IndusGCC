@@ -1,0 +1,1 @@
+Download "Offline Test": Click "Update Check"; Select "Offline Test Package Update"; Click "Download".

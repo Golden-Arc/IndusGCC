@@ -1,0 +1,1 @@
+Update "Offline Test": Click "Update" to start the update; Click "Yes" to confirm updating; Click "Yes" to confirm the results.

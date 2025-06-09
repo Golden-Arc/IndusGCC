@@ -1,0 +1,1 @@
+Configure "Global Setting": Click "Global Setting" on topbar; Enable "Default Setting"; Change "Automatic Obstacle Avoidance Mode" to "Mode 2: Efficiency First"; Click "Save" to save; Click "Yes" to confirm the modification.

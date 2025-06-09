@@ -1,0 +1,1 @@
+Model Replacement: Click "Software Setting" on topbar; Click "Model Replacement"; Change "Select Robot" to "Qianjiang Robot"; Change “Select Welding Gun” to "TRM Short"; Click "Replace Model"; Click "Yes" to confirm replacement.

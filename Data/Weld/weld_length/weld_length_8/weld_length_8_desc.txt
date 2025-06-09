@@ -1,0 +1,1 @@
+Make the actual contour of the Component invisible:

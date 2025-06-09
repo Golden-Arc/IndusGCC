@@ -1,0 +1,1 @@
+Modify Welding Parameter: Enable "Select Welding Seam"; Click the seam; Select "Not Weld"; Click "Modification Confirm"; Click "Yes" to confirm.

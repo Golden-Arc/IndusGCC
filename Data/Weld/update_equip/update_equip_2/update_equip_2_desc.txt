@@ -1,0 +1,1 @@
+Install "Intel GPU driver": Click "Start Installation"; Click "Agree" to agree; Click "Accept" to continue; Click "Start" to start the installation.

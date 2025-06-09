@@ -1,0 +1,1 @@
+Modify Welding Parameter: Click on the weld seam that needs to be modified; Change "Welding Process" to 1; Click "Modification Confirm"; Click "Yes" to confirm.

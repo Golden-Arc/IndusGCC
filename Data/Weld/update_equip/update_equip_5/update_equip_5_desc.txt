@@ -1,0 +1,1 @@
+Login: Click "Intelligent Welding" on topbar; Click "User Login"; Click "Login"; Click "Confirm" to finish login.

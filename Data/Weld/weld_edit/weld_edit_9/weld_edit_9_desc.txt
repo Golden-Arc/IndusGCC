@@ -1,0 +1,1 @@
+Cut welding seam: Select the weld seam that needs to be cut; Change cutting position from "Default" to "End Point"; Change the cutting length to "20"; Click "Cutting Confirm"; Click "Yes" to confirm.

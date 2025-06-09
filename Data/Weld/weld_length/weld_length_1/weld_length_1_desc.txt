@@ -1,0 +1,1 @@
+Check the reachability of the trajectory: Click "General Component" with right mouse button and select "Create Points"; Click "Trajectory Checking" and "Start Checking" and Click "Yes" to continue; Click "X" to close the window after results are shown.

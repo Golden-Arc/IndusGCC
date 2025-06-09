@@ -1,0 +1,6 @@
+frame,x,y,button,event
+5,1551,533,Button.right,Pressed
+12,1595,845,Button.left,Pressed
+30,1596,303,Button.left,Pressed
+39,1068,652,Button.left,Pressed
+45,950,567,Button.left,Pressed

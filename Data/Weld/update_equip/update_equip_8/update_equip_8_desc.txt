@@ -1,0 +1,1 @@
+Modify "Computing Flow": Click "Computing Flow" with right mouse button; Click "Modify"; Click "Modify Computing Flow: Computing Flow"; Click "Precise positioning" with right mouse button; Hover over the option "Insert before the operator" and then click the "Crop Box"; Change Property "Range" to 100; Press "Enter" to confirm.

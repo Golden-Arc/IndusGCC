@@ -1,0 +1,1 @@
+Select welding seam: Enable "Select Welding Seam"; Click the first seam; Click the second seam.

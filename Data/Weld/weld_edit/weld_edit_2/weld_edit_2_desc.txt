@@ -1,0 +1,1 @@
+Make the component "1-GL2-1" invisible: Select "1-Gl2-1" with right mouse button; Click "Visbale".

@@ -1,0 +1,1 @@
+Fit plane by select point "P1": Enable "Configuration"; Select "Fit Plane"; Select "P1" and Click 1 point on the plane and Click "Yes" to save;

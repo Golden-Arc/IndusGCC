@@ -1,0 +1,1 @@
+Configure "Wide Weld Seam" on General Component(id=0): Click "General Component" with right mouse button and select "File Setting"; Change "Intelligent Configuration" to "3: Wide_Weld_Seam_V1"; Press "Save" to save the setting; Click "Yes" to confirm; Click "Back" to return to the main interface.

@@ -1,0 +1,1 @@
+Cancel flat welding: Select the component with id "13-15"; Click right mouse button and Select "Cancel Flat Welding"; Click "Yes" to confirm.
