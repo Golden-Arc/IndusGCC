@@ -1,0 +1,1 @@
+Manage Expereiment Setting and "Design" Option: Click "Run Experiment"; Press "..." button and then "Testing" to select the experiment with Design ID "2278"; Click "OK" to confirm; Click "Next" to continue; Click "Next" to continue.

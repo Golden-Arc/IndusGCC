@@ -1,0 +1,1 @@
+Fix the wrong selected position: Launch "Design Creator"; Click "Next" to continue; Select "SOURCE"; Change the selected row of "solvent" to "1"; Click "Next" to continue.

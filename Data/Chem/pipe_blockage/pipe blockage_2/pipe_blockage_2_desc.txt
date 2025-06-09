@@ -1,0 +1,1 @@
+Abort Experiment: Click "Abort"; Click "Yes" to reset hardware; Click "No" for not saving data monitor traces.

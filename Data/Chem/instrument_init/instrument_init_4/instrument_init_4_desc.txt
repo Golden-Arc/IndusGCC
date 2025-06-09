@@ -1,0 +1,1 @@
+Manage "Liquid Dispensing" Option: View "Tip Management": Click "Tip Management"; Click "Select" to selcect the tips; Click "OK" to confirm.

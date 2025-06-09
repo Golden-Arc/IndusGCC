@@ -1,0 +1,1 @@
+Finalize the change: Click "Finalize"; Uncheck to "Create New Design Id"; Click "Save" and then "OK" to confirm.

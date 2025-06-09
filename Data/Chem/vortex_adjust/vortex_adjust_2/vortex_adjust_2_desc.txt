@@ -1,0 +1,1 @@
+Manage "Liquid Dispensing" and "Balance" Option: View "Tip Management"; Check to "Confirm that balance door is open and no vial/plate is on the balance"; and Click "Next" to continue.

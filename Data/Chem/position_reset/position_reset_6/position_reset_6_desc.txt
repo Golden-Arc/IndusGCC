@@ -1,0 +1,1 @@
+Select maps to execute: Check "Check all" and then uncheck the first 6 options; Click "Next" to continue.

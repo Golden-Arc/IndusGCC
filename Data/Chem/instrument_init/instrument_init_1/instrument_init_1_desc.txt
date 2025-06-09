@@ -1,0 +1,1 @@
+Initialize Gateway: Select "Utility"; Select "CAN device map" and "Initialize Gateway".

@@ -1,0 +1,1 @@
+Initialize system: Click the "Settings" icon in the upper left corner of the interface; Click "Initialize System"; Click "Initialize" button and Click "ok" to confirm.

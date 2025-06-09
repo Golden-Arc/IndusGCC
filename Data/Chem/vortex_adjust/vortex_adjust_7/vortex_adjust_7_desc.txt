@@ -1,0 +1,1 @@
+Vortex Adjustment on Pos 2: Click "HCSB and Vortex"; Add 500 on "Set new" as new vortex rpm of Pos 2 and click "Set" to confirm.

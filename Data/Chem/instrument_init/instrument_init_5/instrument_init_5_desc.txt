@@ -1,0 +1,1 @@
+Manage "Balance" Option: Check to "Confirm that balance door is open and no vial/plate is on the balance"; Change "Current balance setup" to "Vial"; and Click "Next" to continue.
