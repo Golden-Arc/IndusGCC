@@ -8,9 +8,9 @@ We have captured screen recordings of human interactions with industrial softwar
 
 To help users better understand the dataset, we provide illustrative visualizations that summarize key statistics and data distributions:
 
-<img src=https://github.com/Golden-Arc/IndustrialLLM/blob/main/img/distribution.png width="40%"/>
+<img src=https://github.com/Golden-Arc/IndustrialLLM/blob/main/img/distribution.png width="40%" align="center"/>
 
-<div style="text-align: center;">
+<div align="center">
 <table class="tg", ><thead>
   <tr>
     <th class="tg-0pky">Scenario</th>
