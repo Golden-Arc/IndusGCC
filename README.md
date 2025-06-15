@@ -47,6 +47,10 @@ To help users better understand the dataset, we provide illustrative visualizati
     <td class="tg-0pky">Weld</td>
     <td class="tg-0pky">68</td>
   </tr>
+  <tr>
+    <td class="tg-0pky">Total</td>
+    <td class="tg-0pky">410</td>
+  </tr>
 </tbody>
 </table>
 </div>
