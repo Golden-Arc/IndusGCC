@@ -1,8 +1,6 @@
 frame,x,y,button,event
-19,1057,860,Button.left,Pressed
-21,1057,860,Button.left,Released
-84,1180,402,Button.left,Pressed
-90,1180,402,Button.left,Pressed
-97,1180,402,Button.left,Released
-160,1273,366,Button.left,Pressed
-164,1273,366,Button.left,Released
+20,1180,402,Button.left,Pressed
+26,1180,402,Button.left,Pressed
+33,1180,402,Button.left,Released
+96,1273,366,Button.left,Pressed
+100,1273,366,Button.left,Released

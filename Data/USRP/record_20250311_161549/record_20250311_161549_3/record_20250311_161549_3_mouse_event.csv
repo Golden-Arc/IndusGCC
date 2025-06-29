@@ -1,9 +1,8 @@
 frame,x,y,button,event
-4,528,250,Button.left,Pressed
-5,528,250,Button.left,Released
-9,528,250,Button.left,Pressed
-15,528,250,Button.left,Released
-279,937,462,Button.left,Pressed
-283,937,462,Button.left,Released
-315,942,457,Button.left,Pressed
-320,942,457,Button.left,Released
+4,528,250,Button.left,Released
+267,937,462,Button.left,Pressed
+271,937,462,Button.left,Released
+302,942,457,Button.left,Pressed
+307,942,457,Button.left,Released
+415,1064,857,Button.left,Pressed
+418,1064,857,Button.left,Released

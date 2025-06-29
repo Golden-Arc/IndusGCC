@@ -1,9 +1,9 @@
 frame,key,event
-269,'1',Pressed
-274,'1',Released
-290,",",Pressed
-295,",",Released
-304,'0',Pressed
-309,'0',Released
-318,<65437>,Pressed
-324,<65437>,Released
+209,'1',Pressed
+214,'1',Released
+230,",",Pressed
+235,",",Released
+243,'0',Pressed
+248,'0',Released
+257,<65437>,Pressed
+263,<65437>,Released
