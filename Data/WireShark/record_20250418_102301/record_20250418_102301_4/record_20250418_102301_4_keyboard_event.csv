@@ -1,2 +1,8 @@
 frame,key,event
-21,Key.enter,Released
+5249,Key.backspace,Pressed
+5250,Key.backspace,Released
+5300,'4',Released
+5345,Key.enter,Released
+5697,Key.enter,Released
+6028,Key.backspace,Released
+6062,Key.enter,Released

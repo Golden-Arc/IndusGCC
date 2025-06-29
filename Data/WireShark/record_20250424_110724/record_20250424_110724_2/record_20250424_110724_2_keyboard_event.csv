@@ -1,11 +1,7 @@
 frame,key,event
-15,Key.ctrl_l,Pressed
-40,'\x16',Released
-51,Key.ctrl_l,Released
-68,Key.enter,Released
-3322,Key.shift,Released
-3323,Key.alt_l,Released
-3324,Key.ctrl_l,Released
-4948,Key.alt_l,Pressed
-4959,Key.alt_l,Released
-4960,Key.alt_l,Released
+1753,Key.shift,Released
+1754,Key.alt_l,Released
+1755,Key.ctrl_l,Released
+3268,Key.alt_l,Pressed
+3278,Key.alt_l,Released
+3279,Key.alt_l,Released

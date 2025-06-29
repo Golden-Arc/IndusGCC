@@ -1,8 +1,6 @@
 frame,key,event
-262,Key.alt_l,Released
-263,Key.ctrl_l,Released
-410,Key.ctrl_l,Pressed
-429,'\x16',Released
-447,Key.ctrl_l,Released
-492,Key.enter,Pressed
-493,Key.enter,Released
+1783,Key.shift,Pressed
+1788,Key.shift,Released
+1789,'q',Released
+1790,Key.shift,Released
+1881,'q',Released

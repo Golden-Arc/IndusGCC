@@ -1,1 +1,1 @@
-This task involved performing a ​traceroute to gaia.cs.umass.edu​ to analyze network hops and using ​Wireshark​ to capture and inspect packets during the process.
+This task involved performing a traceroute to gaia.cs.umass.edu to analyze network hops and using Wireshark to capture and inspect packets during the process.
