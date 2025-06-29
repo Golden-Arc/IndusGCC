@@ -1,5 +1,5 @@
 frame,key,event
-617,Key.backspace,Pressed
-621,Key.backspace,Released
-623,'1',Pressed
-630,'1',Released
+554,Key.backspace,Pressed
+557,Key.backspace,Released
+559,'1',Pressed
+566,'1',Released
