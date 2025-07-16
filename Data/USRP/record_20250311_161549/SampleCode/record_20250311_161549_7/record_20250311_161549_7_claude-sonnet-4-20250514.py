@@ -1,7 +1,6 @@
 import pyautogui
 import time
 
-# Mouse and keyboard events
 pyautogui.click(1012, 428)
 time.sleep(0.083)
 pyautogui.click(1012, 428)
@@ -27,5 +26,5 @@ time.sleep(0.133)
 pyautogui.press('/')
 time.sleep(0.183)
 pyautogui.press('4')
-time.sleep(1.050)
+time.sleep(1.033)
 pyautogui.click(1050, 851)

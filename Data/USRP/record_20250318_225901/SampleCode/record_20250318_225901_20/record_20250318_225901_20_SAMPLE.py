@@ -1,11 +1,16 @@
 import pyautogui
 import time
 
-pyautogui.FAILSAFE = True
-time.sleep(1)  # Give time to switch to target application
-
-pyautogui.click(x=299, y=508)
+pyautogui.click(299, 508)
 time.sleep(0.083)
-pyautogui.click(x=299, y=508)
-time.sleep(1.433)
-pyautogui.click(x=899, y=428)
+pyautogui.click(299, 508)
+time.sleep(1.417)
+pyautogui.click(899, 428)
+time.sleep(11.833)
+pyautogui.press('3')
+time.sleep(0.733)
+pyautogui.click(1053, 865)
+time.sleep(0.700)
+pyautogui.click(440, 507)
+time.sleep(0.100)
+pyautogui.click(440, 507)

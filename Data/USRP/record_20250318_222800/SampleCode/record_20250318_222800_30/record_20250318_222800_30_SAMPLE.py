@@ -1,5 +1,5 @@
 import pyautogui
 import time
 
-time.sleep(1)
-pyautogui.click(x=480, y=1087)
+time.sleep(2)  # Initial delay before starting
+pyautogui.click(x=371, y=856)  # Left click is default, no need to specify

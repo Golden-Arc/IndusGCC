@@ -1,1 +1,4 @@
-Sure! Could you please provide the list of mouse and keyboard events you'd like the script to reproduce?
+import pyautogui
+import time
+
+pyautogui.click(110, 1004)

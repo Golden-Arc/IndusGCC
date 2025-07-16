@@ -1,6 +1,4 @@
 import pyautogui
 import time
 
-pyautogui.FAILSAFE = True
-
-pyautogui.click(x=178, y=299)
+pyautogui.click(178, 299)

@@ -1,38 +1,6 @@
 import pyautogui
 import time
 
-# Move the mouse to position (100, 100)
-pyautogui.moveTo(100, 100)
-time.sleep(1)
-
-# Click the mouse
-pyautogui.click()
-time.sleep(1)
-
-# Type the text "Hello, World!"
-pyautogui.typewrite("Hello, World!")
-time.sleep(1)
-
-# Press the Enter key
-pyautogui.press('enter')
-time.sleep(1)
-
-# Move the mouse to position (200, 200)
-pyautogui.moveTo(200, 200)
-time.sleep(1)
-
-# Double click the mouse
-pyautogui.doubleClick()
-time.sleep(1)
-
-# Press the Ctrl key down
-pyautogui.keyDown('ctrl')
-time.sleep(1)
-
-# Press the 'a' key
-pyautogui.press('a')
-time.sleep(1)
-
-# Release the Ctrl key
-pyautogui.keyUp('ctrl')
-time.sleep(1)
+pyautogui.click(407, 367)
+time.sleep(1.683)
+pyautogui.click(336, 887)

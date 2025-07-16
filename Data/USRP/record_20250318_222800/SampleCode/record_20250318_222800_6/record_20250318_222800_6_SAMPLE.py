@@ -4,7 +4,7 @@ import time
 pyautogui.click(387, 705)
 time.sleep(0.100)
 pyautogui.click(387, 705)
-time.sleep(1.583)
+time.sleep(1.567)
 pyautogui.click(897, 452)
 time.sleep(0.383)
 pyautogui.press('w')

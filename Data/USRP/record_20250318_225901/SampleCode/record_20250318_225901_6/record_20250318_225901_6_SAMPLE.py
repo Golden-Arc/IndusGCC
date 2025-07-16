@@ -1,61 +1,40 @@
 import pyautogui
 import time
 
-pyautogui.click(1050, 850)
-time.sleep(1.050)
-
-pyautogui.click(1232, 184)
+pyautogui.click(x=1232, y=184)
 time.sleep(0.067)
-
-pyautogui.click(1232, 184)
-time.sleep(3.450)
-
-pyautogui.click(904, 491)
-time.sleep(1.300)
-
-pyautogui.click(924, 518)
-time.sleep(1.767)
-
+pyautogui.click(x=1232, y=184)
+time.sleep(3.433)
+pyautogui.click(x=904, y=491)
+time.sleep(1.283)
+pyautogui.click(x=924, y=518)
+time.sleep(1.750)
 pyautogui.press('3')
 time.sleep(0.150)
-
 pyautogui.press('0')
 time.sleep(1.083)
-
-pyautogui.click(879, 552)
-time.sleep(0.883)
-
+pyautogui.click(x=879, y=552)
+time.sleep(0.867)
 pyautogui.press('0')
 time.sleep(1.367)
-
-pyautogui.click(885, 584)
-time.sleep(0.750)
-
+pyautogui.click(x=885, y=584)
+time.sleep(0.733)
 pyautogui.press('1')
 time.sleep(0.217)
-
 pyautogui.press('0')
 time.sleep(0.133)
-
 pyautogui.press('0')
 time.sleep(1.000)
-
-pyautogui.click(892, 613)
-time.sleep(2.533)
-
+pyautogui.click(x=892, y=613)
+time.sleep(2.517)
 pyautogui.press('1')
-time.sleep(1.317)
-
-pyautogui.click(900, 678)
+time.sleep(1.300)
+pyautogui.click(x=900, y=678)
 time.sleep(1.067)
-
 pyautogui.press('2')
-time.sleep(0.183)
-
+time.sleep(0.167)
 pyautogui.press('0')
 time.sleep(0.100)
-
 pyautogui.press('0')
 time.sleep(1.150)
-
-pyautogui.click(1051, 853)
+pyautogui.click(x=1051, y=853)

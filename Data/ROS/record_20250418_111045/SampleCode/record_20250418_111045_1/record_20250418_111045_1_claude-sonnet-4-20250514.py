@@ -2,30 +2,21 @@ import pyautogui
 import time
 
 pyautogui.click(135, 227)
-time.sleep(1.850)
-
+time.sleep(1.833)
 pyautogui.click(218, 473)
-time.sleep(0.983)
-
+time.sleep(0.967)
 pyautogui.click(218, 479)
-time.sleep(1.117)
-
+time.sleep(1.100)
 pyautogui.click(98, 500)
-time.sleep(0.950)
-
+time.sleep(0.933)
 pyautogui.click(242, 523)
-time.sleep(1.150)
-
+time.sleep(1.133)
 pyautogui.press('1')
-time.sleep(1.050)
-
+time.sleep(1.033)
 pyautogui.click(262, 536)
 time.sleep(0.783)
-
 pyautogui.press('1')
-time.sleep(0.900)
-
+time.sleep(0.883)
 pyautogui.click(242, 553)
-time.sleep(0.817)
-
+time.sleep(0.800)
 pyautogui.press('1')

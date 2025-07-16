@@ -1,5 +1,8 @@
 import pyautogui
 import time
 
-time.sleep(2)  # Give the user a moment to switch to the correct window
-pyautogui.click(1073, 859)
+pyautogui.click(x=1011, y=680)
+time.sleep(0.100)
+pyautogui.click(x=1011, y=680)
+time.sleep(1.267)
+pyautogui.click(x=1077, y=852)

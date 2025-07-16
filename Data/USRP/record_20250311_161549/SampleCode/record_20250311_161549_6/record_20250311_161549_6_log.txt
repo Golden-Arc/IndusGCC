@@ -1,11 +1,94 @@
 -> Generating code from multiple models...
   -> Calling model: gpt-4o
   -> Calling model: claude-sonnet-4-20250514
-  -> Calling model: gemini-2.5-flash-preview-05-20
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #2
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #3
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #4
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #5
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #6
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #7
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #8
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #9
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #10
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #11
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #12
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #13
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #14
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #15
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #16
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #17
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #18
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #19
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #20
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #21
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #22
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #23
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #24
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #25
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #26
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #27
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #28
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #29
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #30
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #31
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #32
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #33
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #34
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #35
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #36
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #37
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #38
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #39
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #40
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #41
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #42
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #43
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #44
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #45
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #46
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #47
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #48
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #49
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #50
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #51
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #52
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #53
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #54
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #55
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #56
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #57
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #58
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #59
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #60
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #61
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #62
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #63
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #64
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #65
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #66
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #67
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #68
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #69
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #70
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #71
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #72
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #73
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #74
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #75
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #76
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #77
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #78
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #79
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #80
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #81
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #82
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #83
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #84
+  -> Calling model: gemini-2.5-pro-preview-06-05
 -> Calculating AST similarity scores...
-  -> Similarity(gpt-4o, claude-sonnet-4-20250514) = 0.9367283950617284
-  -> Similarity(gpt-4o, gemini-2.5-flash-preview-05-20) = 0.9967741935483871
-  -> Similarity(claude-sonnet-4-20250514, gemini-2.5-flash-preview-05-20) = 0.9774193548387097
-* Most similar models: gpt-4o and gemini-2.5-flash-preview-05-20 (score=0.9967741935483871)
+  -> Similarity(gpt-4o, claude-sonnet-4-20250514) = 0.9967741935483871
+  -> Similarity(gpt-4o, gemini-2.5-pro-preview-06-05) = 1.0
+  -> Similarity(claude-sonnet-4-20250514, gemini-2.5-pro-preview-06-05) = 1.0
+* Most similar models: gpt-4o and gemini-2.5-pro-preview-06-05 (score=1.0)
 -> Refining with review model: deepseek-v3-250324
-* Final code saved to: ../dataset/train/OFDM_2/record_20250311_161549/VideoClip/SampleCode/record_20250311_161549_6/record_20250311_161549_6_SAMPLE.py
+* Final code saved to: ../dataset/train/OFDM/record_20250311_161549/VideoClipFinal/NewSampleCode/record_20250311_161549_6/record_20250311_161549_6_SAMPLE.py

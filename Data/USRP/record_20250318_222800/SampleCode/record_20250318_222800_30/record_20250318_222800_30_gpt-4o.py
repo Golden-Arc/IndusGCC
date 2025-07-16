@@ -1,5 +1,6 @@
 import pyautogui
 import time
 
-time.sleep(2)
-pyautogui.click(480, 1087)
+time.sleep(2)  # Wait for 2 seconds before starting
+
+pyautogui.click(371, 856)

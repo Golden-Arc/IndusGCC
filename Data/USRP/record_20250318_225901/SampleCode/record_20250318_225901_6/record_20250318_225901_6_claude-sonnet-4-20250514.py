@@ -1,62 +1,40 @@
 import pyautogui
 import time
 
-# Mouse and keyboard events
-pyautogui.click(1050, 850)
-time.sleep(1.050)
-
 pyautogui.click(1232, 184)
 time.sleep(0.067)
-
 pyautogui.click(1232, 184)
-time.sleep(3.450)
-
+time.sleep(3.433)
 pyautogui.click(904, 491)
-time.sleep(1.300)
-
+time.sleep(1.283)
 pyautogui.click(924, 518)
-time.sleep(1.767)
-
+time.sleep(1.750)
 pyautogui.press('3')
 time.sleep(0.150)
-
 pyautogui.press('0')
 time.sleep(1.083)
-
 pyautogui.click(879, 552)
-time.sleep(0.883)
-
+time.sleep(0.867)
 pyautogui.press('0')
 time.sleep(1.367)
-
 pyautogui.click(885, 584)
-time.sleep(0.750)
-
+time.sleep(0.733)
 pyautogui.press('1')
 time.sleep(0.217)
-
 pyautogui.press('0')
 time.sleep(0.133)
-
 pyautogui.press('0')
 time.sleep(1.000)
-
 pyautogui.click(892, 613)
-time.sleep(2.533)
-
+time.sleep(2.517)
 pyautogui.press('1')
-time.sleep(1.317)
-
+time.sleep(1.300)
 pyautogui.click(900, 678)
 time.sleep(1.067)
-
 pyautogui.press('2')
-time.sleep(0.183)
-
+time.sleep(0.167)
 pyautogui.press('0')
 time.sleep(0.100)
-
 pyautogui.press('0')
 time.sleep(1.150)
-
 pyautogui.click(1051, 853)

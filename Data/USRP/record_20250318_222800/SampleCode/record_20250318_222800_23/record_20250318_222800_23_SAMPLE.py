@@ -1,26 +1,17 @@
 import pyautogui
 import time
 
-pyautogui.press('4')
-time.sleep(1.150)
-
-pyautogui.click(1058, 850)
-time.sleep(0.967)
-
 pyautogui.click(1303, 203)
-time.sleep(0.117)
-
-pyautogui.click(1303, 203)
-time.sleep(0.950)
+time.sleep(0.933)
 
 pyautogui.click(952, 455)
-time.sleep(3.467)
+time.sleep(3.450)
 
 pyautogui.press('-')
 time.sleep(0.467)
 
 pyautogui.press('n')
-time.sleep(0.800)
+time.sleep(0.783)
 
 pyautogui.press('y')
 time.sleep(1.233)
@@ -29,7 +20,7 @@ pyautogui.press('q')
 time.sleep(0.083)
 
 pyautogui.press('u')
-time.sleep(0.250)
+time.sleep(0.233)
 
 pyautogui.press('i')
 time.sleep(0.150)
@@ -55,3 +46,6 @@ pyautogui.press('t')
 time.sleep(0.100)
 
 pyautogui.press('e')
+time.sleep(1.833)
+
+pyautogui.click(1053, 859)

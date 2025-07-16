@@ -1,11 +1,16 @@
 -> Generating code from multiple models...
   -> Calling model: gpt-4o
   -> Calling model: claude-sonnet-4-20250514
-  -> Calling model: gemini-2.5-flash-preview-05-20
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #2
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #3
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #4
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #5
+    -> Regenerating code for claude-sonnet-4-20250514, attempt #6
+  -> Calling model: gemini-2.5-pro-preview-06-05
 -> Calculating AST similarity scores...
-  -> Similarity(gpt-4o, claude-sonnet-4-20250514) = 0.9310344827586207
-  -> Similarity(gpt-4o, gemini-2.5-flash-preview-05-20) = 0.903448275862069
-  -> Similarity(claude-sonnet-4-20250514, gemini-2.5-flash-preview-05-20) = 0.9030303030303031
-* Most similar models: gpt-4o and claude-sonnet-4-20250514 (score=0.9310344827586207)
+  -> Similarity(gpt-4o, claude-sonnet-4-20250514) = 1.0
+  -> Similarity(gpt-4o, gemini-2.5-pro-preview-06-05) = 0.9517241379310345
+  -> Similarity(claude-sonnet-4-20250514, gemini-2.5-pro-preview-06-05) = 0.9517241379310345
+* Most similar models: gpt-4o and claude-sonnet-4-20250514 (score=1.0)
 -> Refining with review model: deepseek-v3-250324
-* Final code saved to: ../dataset/train/ROS/record_20250418_111849/VideoClip/SampleCode/record_20250418_111849_1/record_20250418_111849_1_SAMPLE.py
+* Final code saved to: ../dataset/train/ROS/record_20250418_111849/VideoClipFinal/NewSampleCode/record_20250418_111849_1/record_20250418_111849_1_SAMPLE.py

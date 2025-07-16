@@ -1,0 +1,20 @@
+import pyautogui
+import time
+
+pyautogui.click(x=165, y=215, button='left')
+time.sleep(0.1)
+pyautogui.click(x=165, y=215, button='left')
+time.sleep(5.917)
+pyautogui.click(x=914, y=608, button='left')
+time.sleep(1.25)
+pyautogui.click(x=982, y=637, button='left')
+time.sleep(1.3)
+pyautogui.click(x=1015, y=676, button='left')
+time.sleep(1.8)
+pyautogui.click(x=891, y=740, button='left')
+time.sleep(3.733)
+pyautogui.click(x=1056, y=855, button='left')
+time.sleep(0.833)
+pyautogui.click(x=528, y=248, button='left')
+time.sleep(0.1)
+pyautogui.click(x=528, y=248, button='left')

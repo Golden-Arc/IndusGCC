@@ -2,9 +2,9 @@ import pyautogui
 import time
 
 pyautogui.click(339, 165)
-time.sleep(0.583)
+time.sleep(0.567)
 pyautogui.click(359, 180)
 time.sleep(0.833)
 pyautogui.click(405, 180)
-time.sleep(1.733)
+time.sleep(1.717)
 pyautogui.click(289, 336)

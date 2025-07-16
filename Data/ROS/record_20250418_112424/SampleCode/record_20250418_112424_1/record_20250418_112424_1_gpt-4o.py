@@ -5,13 +5,13 @@ pyautogui.click(216, 534)
 time.sleep(0.767)
 
 pyautogui.click(216, 535)
-time.sleep(1.300)
+time.sleep(1.283)
 
 pyautogui.click(100, 552)
 time.sleep(0.650)
 
 pyautogui.click(251, 581)
-time.sleep(1.183)
+time.sleep(1.167)
 
 pyautogui.press('0')
 time.sleep(0.183)
@@ -23,7 +23,7 @@ pyautogui.press('1')
 time.sleep(0.867)
 
 pyautogui.click(245, 594)
-time.sleep(0.700)
+time.sleep(0.683)
 
 pyautogui.press('0')
 time.sleep(0.217)
@@ -32,7 +32,7 @@ pyautogui.press(',')
 time.sleep(0.283)
 
 pyautogui.press('1')
-time.sleep(1.033)
+time.sleep(1.017)
 
 pyautogui.click(256, 616)
 time.sleep(0.833)
@@ -41,6 +41,6 @@ pyautogui.press('0')
 time.sleep(0.200)
 
 pyautogui.press(',')
-time.sleep(0.267)
+time.sleep(0.250)
 
 pyautogui.press('1')

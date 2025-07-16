@@ -1,12 +1,5 @@
 import pyautogui
 import time
 
-pyautogui.click(1430, 693)
-time.sleep(0.117)
-pyautogui.click(1430, 693)
-time.sleep(1.650)
-pyautogui.click(1287, 363)
-time.sleep(0.783)
-pyautogui.click(1525, 809)
-time.sleep(0.083)
-pyautogui.click(1525, 809)
+time.sleep(2)  # Wait for 2 seconds before starting to give you time to switch to the correct window
+pyautogui.click(x=1074, y=855, button='left')

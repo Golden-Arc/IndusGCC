@@ -1,11 +1,10 @@
 import pyautogui
 import time
 
-# Perform mouse and keyboard events with appropriate delays
 pyautogui.click(310, 189)
 time.sleep(0.133)
 pyautogui.click(310, 189)
-time.sleep(0.917)
+time.sleep(0.900)
 pyautogui.click(893, 449)
 time.sleep(0.867)
 pyautogui.press('3')

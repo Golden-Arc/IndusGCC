@@ -1,10 +1,10 @@
 import pyautogui
 import time
 
-pyautogui.click(1154, 637, button='right')
-time.sleep(0.850)
-pyautogui.click(1239, 786, button='left')
-time.sleep(0.733)
-pyautogui.click(1047, 830, button='left')
-time.sleep(1.400)
-pyautogui.click(945, 707, button='right')
+pyautogui.click(x=1047, y=830, button='left')
+time.sleep(1.383)
+
+pyautogui.click(x=945, y=707, button='right')
+time.sleep(1.033)
+
+pyautogui.click(x=1022, y=851, button='left')

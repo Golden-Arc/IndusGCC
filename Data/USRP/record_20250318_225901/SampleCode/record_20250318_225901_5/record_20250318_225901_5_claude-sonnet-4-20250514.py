@@ -1,17 +1,8 @@
 import pyautogui
 import time
 
-# Mouse and keyboard events with appropriate sleep times
-
-# First set of events
-pyautogui.click(1077, 206)
-time.sleep(0.067)
-pyautogui.click(1077, 206)
-time.sleep(1.050)
 pyautogui.click(940, 525)
-time.sleep(4.467)
-
-# Pressing keys
+time.sleep(4.433)
 pyautogui.press('p')
 time.sleep(0.333)
 pyautogui.press('h')
@@ -21,33 +12,27 @@ time.sleep(0.233)
 pyautogui.press('s')
 time.sleep(0.200)
 pyautogui.press('e')
-time.sleep(2.050)
-
-# Pressing shift and other keys
+time.sleep(2.033)
 pyautogui.press('shift')
 time.sleep(0.083)
 pyautogui.press('_')
 time.sleep(0.433)
 pyautogui.press('b')
-time.sleep(2.250)
+time.sleep(2.233)
 pyautogui.press('w')
-time.sleep(6.017)
-
-# Mouse click at new position
+time.sleep(5.967)
 pyautogui.click(940, 518)
-time.sleep(1.467)
-
-# Backspace and number input
+time.sleep(1.450)
 pyautogui.press('backspace')
 time.sleep(1.283)
 pyautogui.press('6')
-time.sleep(0.233)
+time.sleep(0.217)
 pyautogui.press(',')
 time.sleep(0.283)
 pyautogui.press('2')
 time.sleep(0.267)
 pyautogui.press('8')
-time.sleep(2.483)
+time.sleep(2.467)
 pyautogui.press('/')
 time.sleep(0.367)
 pyautogui.press('1')
@@ -55,27 +40,19 @@ time.sleep(0.100)
 pyautogui.press('0')
 time.sleep(0.133)
 pyautogui.press('0')
-time.sleep(1.817)
-
-# Mouse click at position
+time.sleep(1.800)
 pyautogui.click(893, 554)
-time.sleep(2.167)
-
-# More number key presses
+time.sleep(2.150)
 pyautogui.press('0')
 time.sleep(0.133)
 pyautogui.press(',')
 time.sleep(0.133)
 pyautogui.press('0')
-time.sleep(0.950)
-
-# Mouse click at new position
+time.sleep(0.933)
 pyautogui.click(928, 575)
 time.sleep(1.367)
-
-# More key presses
 pyautogui.press('0')
-time.sleep(0.767)
+time.sleep(0.750)
 pyautogui.press('backspace')
 time.sleep(1.017)
 pyautogui.press('1')
@@ -83,29 +60,23 @@ time.sleep(0.250)
 pyautogui.press(',')
 time.sleep(0.250)
 pyautogui.press('0')
-time.sleep(1.417)
-
-# Mouse click at another position
+time.sleep(1.400)
 pyautogui.click(885, 605)
 time.sleep(0.817)
-
-# More number and comma key presses
 pyautogui.press('0')
 time.sleep(0.133)
 pyautogui.press(',')
 time.sleep(0.167)
 pyautogui.press('0')
-time.sleep(0.217)
+time.sleep(0.200)
 pyautogui.press('1')
 time.sleep(1.233)
-
-# Final mouse click
 pyautogui.click(886, 677)
-time.sleep(1.067)
-
-# Final key presses
+time.sleep(1.050)
 pyautogui.press('2')
 time.sleep(0.183)
 pyautogui.press('0')
 time.sleep(0.133)
 pyautogui.press('0')
+time.sleep(1.083)
+pyautogui.click(1050, 850)
