@@ -1,5 +1,7 @@
 import pyautogui
 import time
+
 pyautogui.FAILSAFE = True
-time.sleep(1)
-pyautogui.click()
+pyautogui.PAUSE = 0.1
+
+time.sleep(2)

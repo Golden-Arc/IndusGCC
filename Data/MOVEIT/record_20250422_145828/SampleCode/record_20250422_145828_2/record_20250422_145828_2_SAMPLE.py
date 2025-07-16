@@ -1,46 +1,38 @@
 import pyautogui
 import time
 
-# Initial mouse movement and click
-pyautogui.moveTo(100, 100, duration=0.5)
-time.sleep(0.5)
+# Move the mouse to position (100, 200)
+pyautogui.moveTo(100, 200)
+time.sleep(1)
+
+# Click the mouse
 pyautogui.click()
-time.sleep(0.5)
+time.sleep(1)
 
-# Typing actions
-pyautogui.typewrite('Hello, World!', interval=0.1)
-time.sleep(0.5)
+# Type the text "Hello, World!"
+pyautogui.typewrite("Hello, World!")
+time.sleep(1)
+
+# Press the Enter key
 pyautogui.press('enter')
+time.sleep(1)
+
+# Move the mouse to position (300, 400)
+pyautogui.moveTo(300, 400)
+time.sleep(1)
+
+# Double click the mouse
+pyautogui.doubleClick()
+time.sleep(1)
+
+# Press the Ctrl key down
+pyautogui.keyDown('ctrl')
 time.sleep(0.5)
 
-# Mouse movement and right click
-pyautogui.moveTo(200, 200, duration=0.5)
-time.sleep(0.5)
-pyautogui.rightClick()
+# Press the 'a' key
+pyautogui.press('a')
 time.sleep(0.5)
 
-# Scrolling actions
-pyautogui.scroll(300)
-time.sleep(0.5)
-pyautogui.scroll(-300)
-time.sleep(0.5)
-
-# Circular mouse motion
-pyautogui.moveTo(300, 300, duration=0.5)
-time.sleep(0.5)
-pyautogui.dragRel(100, 0, duration=0.5)
-time.sleep(0.5)
-pyautogui.dragRel(0, 100, duration=0.5)
-time.sleep(0.5)
-pyautogui.dragRel(-100, 0, duration=0.5)
-time.sleep(0.5)
-pyautogui.dragRel(0, -100, duration=0.5)
-time.sleep(0.5)
-
-# Keyboard shortcuts
-pyautogui.keyDown('alt')
-time.sleep(0.2)
-pyautogui.press('tab')
-time.sleep(0.2)
-pyautogui.keyUp('alt')
-time.sleep(0.5)
+# Release the Ctrl key
+pyautogui.keyUp('ctrl')
+time.sleep(1)

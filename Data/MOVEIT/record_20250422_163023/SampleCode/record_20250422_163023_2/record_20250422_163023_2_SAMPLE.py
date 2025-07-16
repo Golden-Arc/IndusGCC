@@ -1,9 +1,8 @@
 import pyautogui
 import time
 
-pyautogui.FAILSAFE = True
-pyautogui.click(x=85, y=234)
+pyautogui.click(85, 234)
 time.sleep(1.100)
-pyautogui.click(x=104, y=346)
-time.sleep(1.033)
-pyautogui.click(x=329, y=364)
+pyautogui.click(104, 346)
+time.sleep(1.017)
+pyautogui.click(329, 364)
