@@ -1,8 +1,8 @@
 import pyautogui
 import time
 
-# Move the mouse to the position (625, 820) and click the left button
-pyautogui.click(625, 820)
-
-# Add a small delay to ensure the action completes before proceeding
-time.sleep(1)
+pyautogui.click(786, 615)
+time.sleep(0.967)
+pyautogui.click(702, 628)
+time.sleep(1.817)
+pyautogui.click(605, 878)

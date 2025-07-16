@@ -1,5 +1,6 @@
 import pyautogui
 import time
 
-time.sleep(1)  # Optional delay to ensure system is ready
-pyautogui.click(1135, 186)
+pyautogui.click(1350, 662)
+time.sleep(2.5)
+pyautogui.click(1059, 749)

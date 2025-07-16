@@ -1,34 +1,49 @@
 import pyautogui
 import time
 
-pyautogui.FAILSAFE = True
+pyautogui.click(1040, 334)
+time.sleep(3.433)
 
-pyautogui.click(x=1040, y=334)
-time.sleep(3.700)
-pyautogui.click(x=991, y=678)
-time.sleep(1.900)
-pyautogui.click(x=972, y=385)
-time.sleep(1.067)
-pyautogui.click(x=965, y=410)
-time.sleep(2.717)
-pyautogui.click(x=982, y=492)
-time.sleep(1.633)
+pyautogui.click(991, 678)
+time.sleep(1.767)
+
+pyautogui.click(972, 385)
+time.sleep(0.983)
+
+pyautogui.click(965, 410)
+time.sleep(2.533)
+
+pyautogui.click(982, 492)
+time.sleep(1.517)
+
 pyautogui.press('1')
-time.sleep(0.233)
+time.sleep(0.217)
+
 pyautogui.press('0')
-time.sleep(0.150)
+time.sleep(0.133)
+
 pyautogui.press('0')
-time.sleep(0.950)
-pyautogui.click(x=1041, y=542)
-time.sleep(2.983)
-pyautogui.click(x=981, y=690)
-time.sleep(1.350)
-pyautogui.click(x=971, y=747)
+time.sleep(0.883)
+
+pyautogui.click(1041, 542)
+time.sleep(2.750)
+
+pyautogui.click(981, 690)
+time.sleep(1.267)
+
+pyautogui.click(971, 747)
+time.sleep(0.967)
+
+pyautogui.click(1050, 693)
 time.sleep(1.050)
-pyautogui.click(x=1050, y=693)
-time.sleep(1.100)
-pyautogui.click(x=983, y=768)
-time.sleep(1.233)
-pyautogui.click(x=973, y=799)
-time.sleep(2.383)
-pyautogui.click(x=1050, y=215)
+
+pyautogui.click(983, 768)
+time.sleep(1.133)
+
+pyautogui.click(973, 799)
+time.sleep(2.233)
+
+pyautogui.click(1050, 215)
+time.sleep(3.783)
+
+pyautogui.click(1061, 938)

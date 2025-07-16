@@ -1,11 +1,52 @@
 -> Generating code from multiple models...
   -> Calling model: gpt-4o
   -> Calling model: claude-sonnet-4-20250514
-  -> Calling model: gemini-2.5-flash-preview-05-20
--> Calculating AST similarity scores...
-  -> Similarity(gpt-4o, claude-sonnet-4-20250514) = 0.9817813765182186
-  -> Similarity(gpt-4o, gemini-2.5-flash-preview-05-20) = 1.0
-  -> Similarity(claude-sonnet-4-20250514, gemini-2.5-flash-preview-05-20) = 1.0
-* Most similar models: gpt-4o and gemini-2.5-flash-preview-05-20 (score=1.0)
--> Refining with review model: deepseek-v3-250324
-* Final code saved to: ../dataset/train/AP/record_20250419_200957/VideoClip/SampleCode/record_20250419_200957_1/record_20250419_200957_1_SAMPLE.py
+  -> Calling model: gemini-2.5-pro-preview-06-05
+Processing video: record_20250419_195029_1
+Processing video: .DS_Store
+Processing video: NewSampleCode
+Processing video: .DS_Store
+Processing video: NewSampleCode
+Processing video: record_20250419_195153_1
+Processing video: .DS_Store
+Processing video: NewSampleCode
+Processing video: record_20250418_105607_1
+Processing video: record_20250418_105607_6
+Processing video: record_20250418_105607_7
+Processing video: record_20250418_105607_5
+Processing video: record_20250418_105607_2
+Processing video: record_20250418_105607_3
+Processing video: record_20250418_105607_4
+Processing video: record_20250418_110549_5
+Processing video: record_20250418_110549_2
+Processing video: record_20250418_110549_3
+Processing video: record_20250418_110549_4
+Processing video: NewSampleCode
+Processing video: record_20250418_110549_1
+Processing video: NewSampleCode
+Processing video: record_20250419_200957_1
+Processing video: .DS_Store
+Processing video: record_20250419_201655_2
+Processing video: record_20250419_201655_1
+Processing video: record_20250419_201230_1
+Processing video: record_20250419_200855_1
+Processing video: .DS_Store
+Processing video: record_20250419_200446_1
+Processing video: record_20250419_195845_1
+Processing video: record_20250419_193919_1
+Processing video: record_20250419_193919_2
+Processing video: record_20250419_200211_1
+Processing video: record_20250419_192253_1
+Processing video: record_20250419_192608_1
+Processing video: record_20250419_192608_2
+Processing video: record_20250419_200041_2
+Processing video: record_20250419_200041_1
+Processing video: record_20250419_201430_1
+Processing video: record_20250419_195510_1
+Processing video: record_20250419_201604_1
+Processing video: record_20250419_193552_1
+Processing video: record_20250419_192848_1
+Processing video: record_20250419_194323_1
+Processing video: record_20250419_194323_4
+Processing video: record_20250419_194323_3
+Processing video: record_20250419_194323_2

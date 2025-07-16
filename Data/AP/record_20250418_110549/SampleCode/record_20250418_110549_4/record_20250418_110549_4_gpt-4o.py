@@ -1,6 +1,8 @@
 import pyautogui
 import time
 
-time.sleep(2)  # Wait for 2 seconds before starting the actions
-
-pyautogui.click(x=100, y=349, button='left')
+pyautogui.click(x=70, y=309)
+time.sleep(5.417)
+pyautogui.click(x=81, y=401)
+time.sleep(0.583)
+pyautogui.click(x=55, y=395)

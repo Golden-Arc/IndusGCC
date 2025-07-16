@@ -1,8 +1,14 @@
 import pyautogui
 import time
 
-pyautogui.click(1123, 206)
-time.sleep(2.1)
-pyautogui.click(609, 495)
-time.sleep(1.05)
 pyautogui.press('1')
+time.sleep(0.367)
+pyautogui.press('4')
+time.sleep(0.400)
+pyautogui.press('0')
+time.sleep(0.167)
+pyautogui.press('0')
+time.sleep(0.367)
+pyautogui.click(958, 576)
+time.sleep(1.133)
+pyautogui.click(619, 704)

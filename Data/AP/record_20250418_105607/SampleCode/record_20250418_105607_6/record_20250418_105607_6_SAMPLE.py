@@ -1,10 +1,10 @@
 import pyautogui
 import time
 
-pyautogui.click(579, 331)
-time.sleep(2.633)
-pyautogui.click(96, 55)
-time.sleep(2.717)
-pyautogui.click(467, 1052)
-time.sleep(1.967)
-pyautogui.click(592, 321)
+pyautogui.click(50, 294)
+time.sleep(4.250)
+pyautogui.click(575, 582)
+time.sleep(1.450)
+pyautogui.click(1049, 208)
+time.sleep(3.983)
+pyautogui.click(607, 882)
