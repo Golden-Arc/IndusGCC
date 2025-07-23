@@ -1,7 +1,0 @@
-The user is asking me to write a pyautogui script to reproduce mouse and keyboard events, but they haven't provided the actual events list. They mentioned "The events are as follows:" but didn't include any specific events.
-However, I notice there's also some design inspiration guidelines for a component library UI at the end, which seems unrelated to the pyautogui request. This appears to be mixed content.
-Since the main request is for pyautogui code but no specific events were provided, I should ask for clarification about what specific mouse and keyboard events they want me to reproduce.
-But wait, let me re-read this more carefully. The user says "You are a helpful assistant who only writes executable pyautogui code without any explanations or prompts" - this seems to contradict asking for clarification. 
-However, there are no actual events listed after "The events are as follows:" - so I literally cannot write the code without knowing what events to reproduce.
-I need to ask for the missing information since I cannot proceed without knowing what events to automate.
-I need the specific mouse and keyboard events to reproduce. You mentioned "The events are as follows:" but didn't include the actual events list. Could you please provide the specific sequence of actions you want me to automate with pyautogui (such as clicks, key presses, mouse movements, etc.) along with their timing?

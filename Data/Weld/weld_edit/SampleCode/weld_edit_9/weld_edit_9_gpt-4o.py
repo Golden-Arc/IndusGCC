@@ -17,7 +17,13 @@ pyautogui.click(1407, 486)
 time.sleep(0.250)
 
 pyautogui.click(1493, 440)
-time.sleep(1.017)
+time.sleep(0.750)
+
+pyautogui.press('2')
+time.sleep(0.017)
+
+pyautogui.press('0')
+time.sleep(0.250)
 
 pyautogui.click(1816, 449)
 time.sleep(0.183)

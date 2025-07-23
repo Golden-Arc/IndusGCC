@@ -1,5 +1,5 @@
 frame,key,event
-73,1
-75,0
-77,0
-82,Key.enter
+73,1,Pressed
+75,0,Pressed
+77,0,Pressed
+82,Key.enter,Pressed
