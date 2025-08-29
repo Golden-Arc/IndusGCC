@@ -1,0 +1,1 @@
+Right click the second HTTP packet captured in the capture list;Select the 'Copy' option from the pop-up menu;Click on the 'Extract as Text' option; 

@@ -1,0 +1,1 @@
+Type 'nslookup www.baidu.com' in the command line window;Type "Enter" in the command line window;Check the resolved IP addresses and associated domain aliases;Click the 'Close' button in the command line window.

@@ -1,0 +1,1 @@
+Press the 'Ethernet' button in Wireshark to capture file uploading packets;

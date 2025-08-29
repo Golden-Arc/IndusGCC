@@ -1,0 +1,1 @@
+Double click the first HTTP packet captured in the capture list;Retract the "Conversation Completeness" option;Expand the "Flags" option;Retract the "Flags" option;Retract the "Transmission Control Protocol" option; Expand the "Hypertext Transfer Protocol" option;Check the content of the captured "Hypertext Transfer Protocol" package;

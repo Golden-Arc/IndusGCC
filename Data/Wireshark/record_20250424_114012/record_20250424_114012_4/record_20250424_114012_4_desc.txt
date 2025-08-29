@@ -1,0 +1,1 @@
+Click the second ICMP packet captured in the capture list;Expand the "Internet Control Message Protocol" option;Expand the "Data" option;Check the ICMP packet details;

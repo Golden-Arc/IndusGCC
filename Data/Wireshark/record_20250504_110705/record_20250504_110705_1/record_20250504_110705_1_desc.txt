@@ -1,0 +1,1 @@
+Press the 'Restart Capture' button in Wireshark;Press the 'Do Not Save' button in Wireshark to reset the captured list;Type 'http' in the Wireshark filter box to filter HTTP packets;

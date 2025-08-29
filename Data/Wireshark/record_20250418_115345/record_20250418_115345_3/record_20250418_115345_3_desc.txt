@@ -1,0 +1,1 @@
+Click the second HTTP packet captured in the capture list;Press the "line-based text data" button in the packet display window;Check the content of the second HTTP packet;

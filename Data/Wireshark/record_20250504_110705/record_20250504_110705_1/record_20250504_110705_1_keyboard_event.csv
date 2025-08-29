@@ -1,0 +1,8 @@
+frame,key,event
+367,'h',Pressed
+368,'t',Pressed
+369,'t',Pressed
+370,'t',Released
+371,'p',Released
+376,Key.enter,Pressed
+377,Key.enter,Released

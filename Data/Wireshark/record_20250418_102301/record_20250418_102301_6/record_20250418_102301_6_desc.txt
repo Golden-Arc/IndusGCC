@@ -1,0 +1,1 @@
+Close the pop-up window displaying the first captured package;

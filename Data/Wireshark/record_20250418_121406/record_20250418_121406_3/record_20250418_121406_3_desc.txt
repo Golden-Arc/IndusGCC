@@ -1,0 +1,1 @@
+Paste 'ip.addr == 137.189.97.3' in the Wireshark filter box to filter DNS packets;Click the first DNS packet captured in the capture list;Press the "Domain Name System" button in the packet display window;Press the "User Datagram Protocol" button in the packet display window;

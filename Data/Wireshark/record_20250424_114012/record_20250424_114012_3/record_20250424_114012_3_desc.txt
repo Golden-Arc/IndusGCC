@@ -1,0 +1,1 @@
+Type 'icmp' in the Wireshark filter box to filter ICMP packets;Type "Enter" in the Wireshark;

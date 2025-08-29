@@ -1,0 +1,1 @@
+Click the second HTTP packet captured in the capture list;Expand the "Hypertext Transfer Protocol" option;Check the content of the captured "Hypertext Transfer Protocol" packet;Close the pop-up window displaying the second captured packet;

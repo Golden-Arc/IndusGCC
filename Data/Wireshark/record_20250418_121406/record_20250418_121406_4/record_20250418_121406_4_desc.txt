@@ -1,0 +1,1 @@
+Click the second DNS packet captured in the capture list;Expand the "queries" option in the packet display window;Expand the "Answers" option in the packet display window;

@@ -1,0 +1,1 @@
+Type 'tracert www.ust.hk' in the command line window;Type "Enter" in the command line window;Press the 'Stop Capture' button in Wireshark;Press the 'Start Capture' button in Wireshark;Type 'tracert www.ust.hk' in the command line window;Type "Enter" in the command line window;

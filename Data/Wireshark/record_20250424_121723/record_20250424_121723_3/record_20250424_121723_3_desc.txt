@@ -1,0 +1,1 @@
+Type 'ip' in the Wireshark filter box to filter IP packets;Type 'icmp' in the Wireshark filter box to filter ICMP packets;Type 'gaia.cs.umass.edu' in the command line window;Type "Enter" in the command line window;

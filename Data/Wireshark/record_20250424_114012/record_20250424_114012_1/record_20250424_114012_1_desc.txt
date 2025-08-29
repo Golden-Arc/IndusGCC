@@ -1,0 +1,1 @@
+Type 'ping -n 10 www.ust.hk' in the command line window;Type "Enter" in the command line window;Press the 'Minimize' button on the command line window; 

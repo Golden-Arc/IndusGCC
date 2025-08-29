@@ -1,0 +1,6 @@
+frame,key,event
+47,Key.ctrl_l,Pressed
+67,'\x16',Released
+74,Key.ctrl_l,Released
+105,Key.enter,Pressed
+106,Key.enter,Released

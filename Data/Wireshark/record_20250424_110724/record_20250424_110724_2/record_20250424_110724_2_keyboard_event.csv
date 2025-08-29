@@ -1,0 +1,6 @@
+frame,key,event
+370,Key.alt_l,Pressed
+379,Key.alt_l,Released
+389,Key.alt_l,Released
+432,Key.shift,Pressed
+442,Key.shift,Released

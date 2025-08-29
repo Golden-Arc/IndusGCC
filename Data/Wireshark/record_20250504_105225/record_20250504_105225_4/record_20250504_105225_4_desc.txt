@@ -1,0 +1,1 @@
+Double click the second HTTP packet captured in the capture list;Retract the "Hypertext Transfer Protocol" option;Expand the "Transmission Control Protocol" option;Expand the "Conversation Completeness" option;Close the pop-up window displaying the captured HTTP packet; 

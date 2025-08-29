@@ -1,0 +1,40 @@
+import pyautogui
+import time
+
+pyautogui.click(724, 400)
+time.sleep(1.133)
+
+pyautogui.press('p')
+time.sleep(0.283)
+
+pyautogui.press('l')
+time.sleep(0.150)
+
+pyautogui.press('o')
+time.sleep(0.200)
+
+pyautogui.press('t')
+time.sleep(0.217)
+
+pyautogui.press('r')
+time.sleep(1.933)
+
+pyautogui.press('enter')
+time.sleep(1.100)
+
+pyautogui.click(377, 401)
+time.sleep(2.967)
+
+pyautogui.click(1057, 529)
+time.sleep(2.317)
+
+pyautogui.click(1453, 153)
+time.sleep(2.433)
+
+pyautogui.click(677, 867)
+time.sleep(3.133)
+
+pyautogui.click(1829, 74)
+time.sleep(1.050)
+
+pyautogui.click(1617, 415)

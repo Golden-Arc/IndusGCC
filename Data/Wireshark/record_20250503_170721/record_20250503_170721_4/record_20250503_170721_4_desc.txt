@@ -1,0 +1,1 @@
+Double click the second TCP packet captured in the capture list;Expand the "Transmission Control Protocol" option;Expand the "Internet Protocol Version 4" option;Expand the "Frame" option;

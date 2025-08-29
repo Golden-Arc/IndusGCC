@@ -1,0 +1,11 @@
+frame,key,event
+107,'h',Released
+108,'t',Pressed
+109,'t',Pressed
+110,'p',Pressed
+111,'p',Released
+126,Key.enter,Pressed
+127,Key.enter,Released
+155,Key.enter,Released
+184,Key.shift,Pressed
+193,Key.shift,Released

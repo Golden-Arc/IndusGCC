@@ -1,0 +1,1 @@
+Type 'tracert www.inria.fr' in the command line window;Type "Enter" in the command line window;

@@ -1,0 +1,1 @@
+Type '52.231.104.182' in the Wireshark filter box to filter the packets associated with the website;Press the 'Restart Capture' button in Wireshark;Press the 'Do Not Save' button in Wireshark to reset the captured list;

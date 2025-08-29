@@ -1,0 +1,1 @@
+Press the 'Upload file' button in the opened webpage;Open Wireshark;Click the "Stop capture" button in Wireshark;Type 'tcp' in the Wireshark filter box to filter TCP packets.

@@ -1,0 +1,1 @@
+Double click the first HTTP packet captured in the capture list;Close the pop-up window displaying the first captured package;Press the "Accept-Encoding" option in the packet display window;

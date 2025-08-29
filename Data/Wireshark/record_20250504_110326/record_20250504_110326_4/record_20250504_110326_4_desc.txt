@@ -1,0 +1,1 @@
+Click the first HTTP packet captured in the capture list;Retract the "Hypertext Transfer Protocol" option;Press the "Accept-Encoding" option in the packet display window;Click the second HTTP packet captured in the capture list;

@@ -1,0 +1,1 @@
+Click the second HTTP packet captured in the capture list;Click the 3rd HTTP packet captured in the capture list;Click the 4th HTTP packet captured in the capture list;Click the 5th HTTP packet captured in the capture list;Click the 6th HTTP packet captured in the capture list;Press the "Response Phrase" option in the packet display window;

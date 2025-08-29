@@ -1,0 +1,1 @@
+Press the 'Refresh' button in the browser;Click the 4th HTTP packet captured in the capture list;

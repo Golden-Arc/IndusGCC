@@ -1,0 +1,15 @@
+frame,key,event
+75,Key.shift,Pressed
+81,'u',Pressed
+82,Key.shift,Pressed
+83,'s',Pressed
+84,'s',Released
+85,Key.shift,Released
+86,'t',Released
+87,Key.shift,Released
+315,'.',Released
+334,'h',Pressed
+335,'h',Released
+342,'k',Released
+359,Key.enter,Pressed
+360,Key.enter,Released

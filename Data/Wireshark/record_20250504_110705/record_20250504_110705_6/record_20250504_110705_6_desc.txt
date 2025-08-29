@@ -1,0 +1,1 @@
+Click the 4th HTTP packet captured in the capture list;Check the content of the captured 4th HTTP packet;Click the 6th HTTP packet captured in the capture list;Check the content of the captured 6th HTTP packet;

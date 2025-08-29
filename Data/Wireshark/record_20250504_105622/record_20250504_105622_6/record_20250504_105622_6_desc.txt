@@ -1,0 +1,1 @@
+Click the 3rd HTTP packet captured in the capture list;Press the "If-Modified-Since" option in the packet display window;Click the 4th HTTP packet captured in the capture list;

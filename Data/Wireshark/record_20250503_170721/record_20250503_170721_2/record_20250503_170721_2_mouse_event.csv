@@ -1,0 +1,9 @@
+frame,x,y,button,event
+743,114,73,Button.left,Pressed
+748,114,73,Button.left,Released
+752,114,73,Button.left,Pressed
+758,114,73,Button.left,Released
+795,57,56,Button.left,Pressed
+800,57,56,Button.left,Released
+865,1014,568,Button.left,Pressed
+869,1014,568,Button.left,Released
