@@ -1,8 +1,0 @@
-frame,key,event
-827,Key.ctrl_l,Pressed
-847,'\x16',Released
-854,Key.ctrl_l,Released
-885,Key.enter,Pressed
-886,Key.enter,Released
-6363,'q',Pressed
-6364,'q',Released

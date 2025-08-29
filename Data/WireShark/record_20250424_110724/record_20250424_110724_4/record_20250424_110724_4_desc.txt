@@ -1,1 +1,0 @@
-Plot TCP sequence numbers over time in Wireshark using the 'Stevens'-style graph.

@@ -1,1 +1,0 @@
-This task involved capturing and analyzing HTTP/TCP packets from the Calvin Store website (https://s04.jems5718.i.e.cuhk.edu.hk) using Wireshark, focusing on interactions like product browsing, Google Sign-In, and video playback while observing the site's clean UI with categorized navigation and featured products

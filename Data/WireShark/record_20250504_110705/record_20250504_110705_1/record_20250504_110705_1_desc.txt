@@ -1,1 +1,0 @@
-Clear browser cookies and conduct HTTP packet sniffing and analysis on a multi-resource website.
