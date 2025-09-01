@@ -3,10 +3,12 @@ import time
 
 pyautogui.keyDown('shift')
 time.sleep(0.100)
+pyautogui.keyUp('shift')
 pyautogui.press('u')
 time.sleep(0.017)
-pyautogui.keyUp('shift')
+pyautogui.keyDown('shift')
 time.sleep(0.017)
+pyautogui.keyUp('shift')
 pyautogui.press('s')
 time.sleep(2.333)
 pyautogui.click(x=1072, y=819)

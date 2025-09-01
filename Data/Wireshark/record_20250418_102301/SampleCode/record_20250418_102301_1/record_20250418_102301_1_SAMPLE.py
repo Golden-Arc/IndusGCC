@@ -1,5 +1,5 @@
 import pyautogui
 import time
 
-time.sleep(2)  # Give the user time to switch to the correct window
-pyautogui.click(679, 65)
+time.sleep(1)  # Reasonable initial delay
+pyautogui.click(x=679, y=65, button='left')

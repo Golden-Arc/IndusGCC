@@ -1,8 +1,8 @@
 import pyautogui
 import time
 
-pyautogui.click(x=51, y=60)
+pyautogui.click(51, 60)
 time.sleep(1.117)
-pyautogui.click(x=998, y=563)
+pyautogui.click(998, 563)
 time.sleep(3.017)
-pyautogui.click(x=442, y=985)
+pyautogui.click(442, 985)

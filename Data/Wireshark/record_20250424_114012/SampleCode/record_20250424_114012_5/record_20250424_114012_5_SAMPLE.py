@@ -3,81 +3,54 @@ import time
 
 pyautogui.keyDown('shift')
 time.sleep(0.433)
-
 pyautogui.click(x=938, y=861)
 time.sleep(2.167)
-
 pyautogui.press('a')
 time.sleep(0.217)
-
 pyautogui.press('c')
 time.sleep(0.217)
-
 pyautogui.press('e')
 time.sleep(0.267)
-
 pyautogui.keyUp('shift')
 time.sleep(1.000)
-
 pyautogui.click(x=938, y=861)
 time.sleep(0.300)
-
 pyautogui.keyDown('shift')
 time.sleep(0.650)
-
 pyautogui.click(x=904, y=881)
 time.sleep(0.733)
-
 pyautogui.press('backspace')
 time.sleep(1.250)
-
 pyautogui.press('a')
 time.sleep(0.117)
-
 pyautogui.press('c')
 time.sleep(0.150)
-
 pyautogui.press('e')
 time.sleep(0.683)
-
-pyautogui.keyUp('shift')
+pyautogui.keyDown('shift')
 time.sleep(1.150)
-
 pyautogui.press("'")
 time.sleep(0.017)
-
 pyautogui.press('ͬ')
 time.sleep(0.617)
-
 pyautogui.press('backspace')
 time.sleep(0.117)
-
 pyautogui.press('backspace')
 time.sleep(0.100)
-
 pyautogui.keyDown('shift')
 time.sleep(1.267)
-
 pyautogui.press('enter')
 time.sleep(0.600)
-
-pyautogui.keyUp('shift')
+pyautogui.keyDown('shift')
 time.sleep(0.867)
-
 pyautogui.click(x=952, y=885)
 time.sleep(2.733)
-
-pyautogui.keyDown('shift')
-time.sleep(0.483)
-
 pyautogui.keyUp('shift')
+time.sleep(0.483)
+pyautogui.keyDown('shift')
 time.sleep(0.950)
-
 pyautogui.click(x=956, y=877)
 time.sleep(3.183)
-
 pyautogui.keyDown('ctrl')
 time.sleep(0.267)
-pyautogui.keyUp('ctrl')
-
 pyautogui.hotkey('ctrl', 'v')

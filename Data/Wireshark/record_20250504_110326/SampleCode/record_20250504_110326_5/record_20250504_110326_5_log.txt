@@ -1,10 +1,11 @@
 -> Generating code from multiple models...
   -> Calling model: gpt-4o
   -> Calling model: claude-sonnet-4-20250514
-  -> Calling model: gemini-2.5-pro-preview-06-05
-!! Error with model gemini-2.5-pro-preview-06-05: Error code: 503 - {'error': {'message': '分组 gemini 下模型 gemini-2.5-pro-preview-06-05 无可用渠道（distributor） (request id: 202508291532594746515095FZ3rrRm) (request id: 2025082915325945313138c58P7Tkd) (request id: 20250829153257544935984tFWPYnN0)', 'type': 'new_api_error', 'param': '', 'code': 'model_not_found'}}
+  -> Calling model: gemini-2.5-pro
 -> Calculating AST similarity scores...
-  -> Similarity(gpt-4o, claude-sonnet-4-20250514) = 0.9324324324324325
-* Most similar models: gpt-4o and claude-sonnet-4-20250514 (score=0.9324324324324325)
+  -> Similarity(gpt-4o, claude-sonnet-4-20250514) = 1.0
+  -> Similarity(gpt-4o, gemini-2.5-pro) = 0.8716216216216216
+  -> Similarity(claude-sonnet-4-20250514, gemini-2.5-pro) = 0.8716216216216216
+* Most similar models: gpt-4o and claude-sonnet-4-20250514 (score=1.0)
 -> Refining with review model: deepseek-v3-250324
 * Final code saved to: ../dataset/train/Wireshark/record_20250504_110326/VideoClipFinal2/NewSampleCode/record_20250504_110326_5/record_20250504_110326_5_SAMPLE.py
