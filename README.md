@@ -9,7 +9,7 @@ We have captured screen recordings of human interactions with industrial softwar
 To help users better understand the dataset, we provide illustrative visualizations that summarize key statistics and data distributions:
 
 <div align="center">
-<img src=https://github.com/Golden-Arc/IndustrialLLM/blob/main/img/distribution.png width="60%"/>
+<img src=https://github.com/Golden-Arc/IndustrialLLM/blob/main/img/figure2.pdf width="60%"/>
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ To help users better understand the dataset, we provide illustrative visualizati
   </tr>
   <tr>
     <td class="tg-0pky">Wireshark</td>
-    <td class="tg-0pky">22</td>
+    <td class="tg-0pky">60</td>
   </tr>
   <tr>
     <td class="tg-0pky">Chem</td>
@@ -49,7 +49,7 @@ To help users better understand the dataset, we provide illustrative visualizati
   </tr>
   <tr>
     <td class="tg-0pky">Total</td>
-    <td class="tg-0pky">410</td>
+    <td class="tg-0pky">448</td>
   </tr>
 </tbody>
 </table>
