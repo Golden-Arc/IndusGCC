@@ -1,4 +1,4 @@
-# IndustrialLLM
+# IndusGCC
 ## Overview
 This dataset is developed to provide high-quality training and testing data for GUI Agents in the era of Large Language Models (LLMs). It is specifically designed to bridge the gap between human-computer interaction and intelligent agent capabilities, focusing on realistic and high-impact industrial applications.
 
@@ -9,7 +9,7 @@ We have captured screen recordings of human interactions with industrial softwar
 To help users better understand the dataset, we provide illustrative visualizations that summarize key statistics and data distributions:
 
 <div align="center">
-<img src=https://github.com/Golden-Arc/IndustrialLLM/blob/main/img/figure2.pdf width="60%"/>
+<img src=https://github.com/Golden-Arc/IndustrialLLM/blob/main/img/figure2.png width="60%"/>
 </div>
 
 <div align="center">
